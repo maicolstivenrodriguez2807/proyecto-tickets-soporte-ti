@@ -6,7 +6,7 @@ Proyecto final del curso **DataXperience - Ciencia de Datos** (Grupo 1, Cuarto C
 
 *Nota: hice el proyecto de forma individual porque por mi horario de trabajo no pude reunirme con un equipo.*
 
-**Video de presentación:** [ver video](PEGA_AQUI_EL_ENLACE_DEL_VIDEO)
+**Video de presentación:** [ver video](https://youtu.be/RR0r3IIXHbA)
 
 ---
 
