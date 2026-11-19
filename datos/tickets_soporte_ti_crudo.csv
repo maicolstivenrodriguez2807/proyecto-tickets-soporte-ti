@@ -1,0 +1,1499 @@
+id_ticket,fecha_apertura,categoria,prioridad,canal,area_solicitante,tecnico,reasignaciones,tiempo_resolucion_horas,sla_cumplido,satisfaccion
+TK-10304,2025-03-16 03:57, Correo ,Baja,Teléfono,Logística,TEC-06,2,34.3,Sí,2
+TK-10816,2025-07-29 18:22,Software,Alta,Portal,Finanzas,TEC-05,0,"4,6",Sí,5
+TK-10748,2025-07-11 23:39,Hardware,Media,Teléfono,Gerencia,TEC-01,1,22.0,Sí,3
+TK-10333,2025-03-25 00:54,Hardware,Baja,Portal,Logística,TEC-03,1,37.6,Sí,
+TK-11391,2025-12-17 04:55,Accesos,Media,Teléfono,Operaciones,TEC-02,0,6.6,Sí,
+TK-11427,2025-12-27 17:16,Accesos,Media,Portal,Finanzas,TEC-02,0,12.2,Sí,3
+TK-11318,2025-12-02 00:42,Red,Alta,Correo,Operaciones,TEC-05,0,26.4,No,5
+TK-10698,2025-07-01 06:16,Accesos,Media,Chat,Ventas,TEC-06,1,16.7,Sí,
+TK-10657,2025-06-20 21:29,Hardware,Baja,Portal,Ventas,TEC-06,1,37.8,Sí,
+TK-11001,2025-09-11 16:23,Accesos,Crítica,Correo,Recursos Humanos,TEC-08,0,1.2,Sí,5
+TK-10217,2025-02-20 18:45,Hardware,Media,Portal,Ventas,TEC-01,2,29.0,No,2
+TK-10896,2025-08-17 16:03,Accesos,Crítica,Correo,Logística,TEC-03,3,21.3,No,3
+TK-11244,2025-11-13 00:36,Accesos,Media,Correo,Ventas,TEC-06,1,34.3,No,3
+TK-10430,2025-04-19 02:20,Hardware,Alta,Portal,Gerencia,TEC-07,0,21.7,No,3
+TK-10017,2025-01-04 19:11,Software,Baja,Portal,Ventas,TEC-02,0,22.6,Sí,3
+TK-10249,2025-02-27 17:47,Software,Media,Chat,Ventas,TEC-01,1,40.4,No,3
+TK-10070,2025-01-16 22:19,Software,Baja,Portal,Recursos Humanos,TEC-03,1,23.9,Sí,2
+TK-10086,2025-01-20 09:40,Red,ALTA,Portal,Logística,TEC-04,1,19.6,No,
+TK-11186,2025-10-25 08:29,Accesos,Baja,Portal,,TEC-05,0,"19,0",Sí,4
+TK-11377,2025-12-13 09:18,Accesos,Alta,Correo,Ventas,TEC-06,1,10.8,No,4
+TK-10603,04/06/2025 10:26,Accesos,Baja,Portal,Ventas,TEC-01,2,40.8,Sí,4
+TK-10426,2025-04-18 00:43,Software,Media,Teléfono,Logística,TEC-04,0,"9,1",Sí,5
+TK-10747,2025-07-11 21:30,Software,Media,Correo,Operaciones,TEC-07,1,33.2,No,4
+TK-10479,2025-05-04 03:14,Correo,Baja,Teléfono,Ventas,TEC-03,0,23.3,Sí,3
+TK-10675,2025-06-24 16:16,ACCESOS,MEDIA,Portal,Ventas,TEC-07,0,16.6,Sí,
+TK-10617,2025-06-08 15:06,Software,Baja,Chat,Operaciones,TEC-06,0,18.7,Sí,5
+TK-10100,2025-01-22 12:33,Correo,Alta,Portal,Ventas,TEC-05,1,8.1,No,3
+TK-11384,2025-12-15 06:22, Red ,Alta,Chat,Operaciones,TEC-07,1,32.2,No,5
+TK-10594,2025-06-01 07:14,Hardware,Baja,Correo,Ventas,TEC-02,0,30.1,Sí,3
+TK-11102,2025-10-06 08:01,Accesos,Baja,Correo,,TEC-02,0,19.0,Sí,4
+TK-11382,2025-12-14 11:18,Correo,Alta,Correo,,TEC-05,0,2.5,Sí,5
+TK-11323,2025-12-02 17:48,Correo,Alta,Portal,Ventas,TEC-05,1,12.8,No,3
+TK-10205,2025-02-18 03:44,Correo,Alta,Teléfono,Ventas,TEC-02,2,10.4,No,3
+TK-10655,2025-06-20 06:41,Hardware,Baja,Correo,Logística,TEC-04,0,30.5,Sí,4
+TK-10051,2025-01-12 02:01,Red,Media,Chat,Recursos Humanos,TEC-06,1,22.0,Sí,4
+TK-10817,2025-07-30 21:51,Hardware,Media,Portal,Logística,TEC-07,1,26.7,No,2
+TK-10198,2025-02-16 08:42,Software,Alta,Portal,Recursos Humanos,TEC-07,0,6.0,Sí,4
+TK-10267,2025-03-03 13:55,Red,BAJA,Correo,Operaciones,TEC-07,0,27.2,Sí,3
+TK-11435,2025-12-29 23:10,Software,Baja,Portal,Operaciones,TEC-02,3,37.7,Sí,2
+TK-11319,2025-12-02 07:55,Accesos,Baja,Portal,Recursos Humanos,TEC-04,0,18.3,Sí,5
+TK-10894,2025-08-17 07:11,Red,Baja,Teléfono,Ventas,TEC-08,0,27.6,Sí,
+TK-10998,2025-09-11 08:11,Hardware,Alta,Portal,Recursos Humanos,TEC-02,1,32.9,No,2
+TK-10624,2025-06-09 14:10,Hardware,Baja,Portal,Ventas,TEC-06,2,44.2,Sí,2
+TK-10062,2025-01-15 14:14,accesos,Alta,Portal,Operaciones,TEC-06,0,4.8,Sí,4
+TK-10810,2025-07-28 16:01,Correo,Media,Correo,Recursos Humanos,TEC-03,0,,No,3
+TK-10141,2025-02-01 01:03,Accesos,Alta,Teléfono,Operaciones,TEC-08,1,2.8,Sí,4
+TK-10924,2025-08-25 00:49,Accesos,media,Portal,Ventas,TEC-04,0,13.8,Sí,5
+TK-10353,2025-03-30 01:18,Red,Baja,Correo,Operaciones,TEC-07,1,35.7,Sí,4
+TK-10084,2025-01-19 16:13,Hardware,Crítica,Chat,Recursos Humanos,TEC-02,0,4.0,si,5
+TK-11305,2025-11-28 03:45,Correo,Baja,Portal,Ventas,TEC-07,1,21.5,Sí,4
+TK-11231,2025-11-09 06:15,Software,Baja,Teléfono,Finanzas,TEC-01,0,22.3,Sí,5
+TK-11212,2025-11-03 02:30,Hardware,Baja,Teléfono,Ventas,TEC-07,0,30.7,Sí,4
+TK-10523,2025-05-15 14:16,Hardware,Media,Chat,Finanzas,TEC-03,1,33.0,No,2
+TK-10938,2025-08-27 17:55,Software,Media,Portal,Operaciones,TEC-07,2,36.4,No,3
+TK-10884,2025-08-15 14:14,Software,Media,Portal,Operaciones,TEC-03,0,12.8,Sí,2
+TK-10612,2025-06-07 07:18,Hardware,Media,Chat,Finanzas,TEC-02,0,24.4,No,4
+TK-10638,2025-06-15 11:08,Software,Alta,Portal,Operaciones,TEC-06,0,-3.3,Sí,5
+TK-10382,2025-04-07 22:03,Hardware,Baja,Portal,Operaciones,TEC-01,2,"41,8",Sí,2
+TK-10356,2025-03-30 16:01,Hardware,Baja,Portal,Operaciones,TEC-03,0,24.5,si,4
+TK-11214,2025-11-03 04:57,Hardware,Media,Chat,Finanzas,TEC-06,2,27.7,No,4
+TK-11098,2025-10-05 10:38,Hardware,Alta,Portal,Operaciones,TEC-02,2,27.8,No,3
+TK-11303,2025-11-27 15:50,Software,Media,Correo,Finanzas,TEC-07,0,18.2,Sí,
+TK-11414,2025-12-24 04:09,Hardware,Crítica,Chat,Ventas,TEC-05,1,28.9,No,4
+TK-10672,2025-06-23 21:02,Hardware,Media,Portal,Ventas,TEC-01,1,,No,4
+TK-11021,2025-09-17 06:03,Accesos,Alta,Teléfono,Recursos Humanos,TEC-08,1,16.2,No,5
+TK-11043,2025-09-22 11:06,Hardware,Alta,Correo,Logística,TEC-05,1,20.0,No,5
+TK-10222,2025-02-21 20:55,Software,Media,Teléfono,Logística,TEC-05,1,35.9,No,4
+TK-10071,2025-01-16 23:27,Software,Media,Correo,Ventas,TEC-08,1,33.9,No,2
+TK-10805,2025-07-27 06:21,Hardware,Media,Portal,Recursos Humanos,TEC-01,3,40.0,No,1
+TK-10005,2025-01-02 00:28,Red,baja,Correo,Ventas,TEC-08,2,41.1,Sí,3
+TK-11324,02/12/2025 18:59,Red,Baja,Portal,Gerencia,TEC-07,2,44.8,Sí,2
+TK-10587,2025-05-30 17:45,Hardware,Baja,Correo,Finanzas,TEC-01,1,40.0,Sí,3
+TK-11012,14/09/2025 22:56,Correo,crítica,Portal,Logística,TEC-01,1,7.2,No,4
+TK-10912,2025-08-22 00:15,Red,Alta,Portal,Operaciones,TEC-03,0,18.9,No,4
+TK-10186,2025-02-11 09:27,Hardware,Media,Correo,Ventas,TEC-01,1,28.6,No,4
+TK-10417,2025-04-16 04:20,Software,Media,Chat,Ventas,TEC-02,0,16.8,Sí,5
+TK-10305,2025-03-16 18:58,Correo,Baja,Teléfono,Gerencia,TEC-05,1,,Sí,4
+TK-10358,2025-03-30 21:40,Software,Media,Correo,Finanzas,TEC-06,0,31.0,No,4
+TK-10825,2025-08-01 20:37,Hardware,Crítica,Portal,Logística,TEC-05,1,17.0,No,2
+TK-10379,2025-04-06 19:55,Hardware,Baja,Portal,Ventas,TEC-05,0,49.5,No,1
+TK-11126,2025-10-12 12:52,Software,Alta,Portal,Operaciones,TEC-07,0,21.2,No,3
+TK-11330,2025-12-03 21:51, Software ,Crítica,Portal,Logística,TEC-04,0,8.4,No,4
+TK-10841,2025-08-04 10:56,Software,Crítica,Correo,Operaciones,TEC-08,3,25.1,No,4
+TK-10632,2025-06-13 11:16,Software,Baja,Correo,Ventas,TEC-03,2,36.5,Sí,2
+TK-10714,2025-07-05 10:10,Correo,Baja,Portal,Recursos Humanos,TEC-01,3,39.6,Sí,3
+TK-10291,2025-03-11 21:02,Hardware,Baja,Portal,Recursos Humanos,TEC-08,0,77.7,No,
+TK-10842,2025-08-05 00:12,Software,Media,Chat,Logística,TEC-06,0,8.2,Sí,5
+TK-10322,2025-03-21 09:01,Accesos,Baja,Portal,Recursos Humanos,TEC-01,0,18.4,Sí,4
+TK-10265,2025-03-02 15:14,Hardware,Baja,Correo,Ventas,TEC-06,2,41.7,Sí,4
+TK-11449,2025-12-31 16:03,Red,Media,Portal,Ventas,TEC-05,0,14.1,Sí,4
+TK-10473,2025-05-01 14:11,Software,Media,Portal,Logística,TEC-02,1,23.7,Sí,3
+TK-10778,2025-07-20 00:41,Red,Baja,Correo,Operaciones,TEC-01,1,42.7,Sí,
+TK-10317,2025-03-18 23:20,Red,Alta,Teléfono,Operaciones,TEC-02,0,3.7,Sí,4
+TK-10233,2025-02-23 17:21,Software,Baja,Correo,Recursos Humanos,TEC-06,0,,No,3
+TK-11176,2025-10-23 08:44,Hardware,Baja,Chat,Recursos Humanos,TEC-03,1,44.6,Sí,2
+TK-10408,2025-04-14 01:05,Red,Media,Teléfono,Operaciones,TEC-05,2,27.2,No,4
+TK-10329,2025-03-23 13:11,Correo,Alta,Teléfono,Logística,TEC-05,0,6.3,Sí,4
+TK-11399,2025-12-19 13:01,accesos,Media,Portal,Ventas,TEC-02,2,29.2,No,3
+TK-10839,2025-08-04 08:25,Hardware,Baja,Correo,Logística,TEC-07,0,37.8,Sí,2
+TK-11157,2025-10-19 10:08,Red,Crítica,Correo,Ventas,TEC-04,3,36.1,No,2
+TK-10585,2025-05-30 06:35,Red,Baja,Correo,Ventas,TEC-06,2,-36.9,Sí,4
+TK-10104,2025-01-23 02:43,Red,Alta,Chat,Finanzas,TEC-01,0,5.9,Sí,5
+TK-10915,2025-08-22 22:11,Software,Media,Chat,Ventas,TEC-01,0,15.5,Sí,
+TK-10325,2025-03-22 13:38,Red,Alta,Teléfono,Recursos Humanos,TEC-02,0,11.6,No,5
+TK-10200,2025-02-16 14:59,Correo,Crítica,Chat,Ventas,TEC-03,0,8.5,NO,
+TK-11269,2025-11-18 11:14,Red,Media,Correo,Finanzas,TEC-01,0,25.9,No,3
+TK-10472,2025-05-01 13:03,Software,Alta,Teléfono,Ventas,TEC-04,1,7.2,Sí,3
+TK-10199,2025-02-16 09:47,Software,Baja,Correo,Finanzas,TEC-04,0,21.2,Sí,4
+TK-10991,2025-09-09 21:09,Software,Media,Portal,Ventas,TEC-07,1,19.5,Sí,4
+TK-11422,2025-12-25 16:18,HARDWARE,Alta,Correo,Operaciones,TEC-04,1,23.2,No,4
+TK-11037,2025-09-21 04:55,Hardware,Baja,Portal,Logística,TEC-08,0,70.6,No,2
+TK-10885,2025-08-15 14:48,Red,Baja,Portal,Logística,TEC-02,1,37.2,Sí,3
+TK-10974,2025-09-05 11:33,Hardware,Crítica,Portal,Operaciones,TEC-04,1,14.8,No,4
+TK-10269,2025-03-04 00:15,Accesos,Alta,Chat,Gerencia,TEC-02,1,"26,8",No,3
+TK-10270,2025-03-04 01:21,Software,Alta,Chat,Recursos Humanos,TEC-02,0,0.3,Sí,5
+TK-11234,2025-11-10 20:52,Accesos,Baja,Portal,Gerencia,TEC-03,0,32.8,Sí,3
+TK-11096,2025-10-05 03:01,Accesos,Crítica,Portal,Ventas,TEC-05,2,29.1,No,
+TK-10596,2025-06-02 03:04,Correo,Alta,Correo,Ventas,TEC-03,1,"58,4",No,1
+TK-10670,2025-06-23 13:31,Red,Media,Correo,Ventas,TEC-03,2,31.2,No,
+TK-11387,2025-12-16 04:44, Red ,Baja,Teléfono,Operaciones,TEC-02,1,27.5,Sí,
+TK-11175,2025-10-23 07:52, Hardware ,Alta,Teléfono,Operaciones,TEC-08,1,13.5,No,5
+TK-10964,04/09/2025 01:47,Hardware,Media,Teléfono,Logística,TEC-01,1,25.2,No,
+TK-10240,2025-02-24 19:29,Red,Media,Teléfono,Finanzas,TEC-05,4,34.6,No,
+TK-11103,2025-10-06 20:05,Red,Media,Teléfono,Operaciones,TEC-06,1,27.7,No,3
+TK-11190,2025-10-26 01:05,Accesos,Baja,Teléfono,Operaciones,TEC-07,0,12.7,Sí,4
+TK-10960,2025-09-02 13:36,HARDWARE,Baja,Teléfono,Ventas,TEC-02,3,47.8,Sí,1
+TK-10989,2025-09-09 11:55,Accesos,Alta,Teléfono,Ventas,TEC-02,0,3.6,Sí,5
+TK-10808,2025-07-27 20:59,Software,Alta,Correo,Operaciones,TEC-03,4,45.5,No,1
+TK-10604,2025-06-05 04:17,Correo,Alta,Portal,Operaciones,TEC-07,2,21.1,No,4
+TK-11169,2025-10-22 23:26,Hardware,Media,Portal,Operaciones,TEC-06,0,30.4,No,3
+TK-10586,2025-05-30 12:49,Accesos,Crítica,Correo,Logística,TEC-02,1,73.0,No,3
+TK-10719,2025-07-05 18:22,Red,Baja,Chat,Finanzas,TEC-04,1,28.4,Sí,3
+TK-11156,2025-10-19 02:45,Correo,Baja,Teléfono,Operaciones,TEC-08,1,32.1,Sí,3
+TK-11016,2025-09-15 07:55,Software,Baja,Portal,Logística,TEC-04,0,68.9,No,3
+TK-10644,2025-06-17 10:38,Hardware,Media,Teléfono,Finanzas,TEC-08,1,24.7,No,4
+TK-10609,2025-06-06 21:48,Hardware,Media,Teléfono,Ventas,TEC-06,0,20.2,Sí,5
+TK-11313,2025-11-30 06:27,Red,Alta,Chat,Finanzas,TEC-07,0,4.0,Sí,4
+TK-10578,2025-05-29 05:35,Accesos,Media,Correo,Finanzas,TEC-02,3,28.1,No,4
+TK-10171,2025-02-09 00:38,Correo,Media,Portal,Operaciones,TEC-02,1,19.6,Sí,3
+TK-10195,2025-02-15 10:18,Software,Baja,Correo,Ventas,TEC-07,0,23.9,Sí,3
+TK-10870,2025-08-11 19:23,Hardware,Alta,Teléfono,Operaciones,TEC-08,0,7.1,Sí,
+TK-10916,2025-08-23 09:40,Software,Media,Correo,Finanzas,TEC-06,0,14.1,Sí,5
+TK-10465,2025-04-29 22:10,Accesos,Media,Correo,Operaciones,TEC-03,1,20.3,Sí,4
+TK-10500,2025-05-11 08:11,Correo,Baja,Teléfono,Logística,TEC-03,1,21.2,Sí,2
+TK-11136,2025-10-15 00:55,software,Media,Portal,Ventas,TEC-03,0,"11,2",Sí,4
+TK-11172,2025-10-23 04:09,Red,Baja,Portal,Recursos Humanos,TEC-06,1,36.4,Sí,3
+TK-10132,2025-01-30 22:11,Hardware,Alta,Portal,Logística,TEC-06,0,-22.8,No,4
+TK-10230,2025-02-23 07:20,Software,Media,Chat,Logística,TEC-06,0,38.5,NO,
+TK-11390,2025-12-16 20:05,Software,Media,Chat,Finanzas,TEC-08,1,13.6,Sí,3
+TK-11333,2025-12-04 14:18,Hardware,Baja,Correo,Ventas,TEC-08,1,40.1,Sí,3
+TK-10319,2025-03-19 08:26,SOFTWARE,Baja,Teléfono,Finanzas,TEC-08,1,22.2,Sí,4
+TK-10643,2025-06-17 07:45, Accesos ,Critica,Correo,Operaciones,TEC-07,0,0.3,Sí,4
+TK-10189,2025-02-12 05:34,Accesos,Alta,Chat,Finanzas,TEC-05,1,3.1,Sí,3
+TK-10688,2025-06-28 18:00,Software,Alta,Correo,Recursos Humanos,TEC-02,4,31.6,No,3
+TK-11286,2025-11-23 02:22,Red,Alta,Portal,Operaciones,TEC-02,0,14.9,No,4
+TK-10753,2025-07-13 12:56,Software,Baja,Teléfono,Ventas,TEC-01,0,18.9,Sí,4
+TK-11284,2025-11-22 13:54,Hardware,Baja,Teléfono,,TEC-06,1,,Sí,
+TK-11028,2025-09-18 23:42,Red,Media,Correo,Operaciones,TEC-06,1,28.0,No,3
+TK-10122,2025-01-27 21:11,Correo,Crítica,Chat,Ventas,TEC-08,0,10.6,No,3
+TK-11337,2025-12-05 16:48,Software,Media,Correo,Ventas,TEC-06,2,,No,3
+TK-10821,2025-08-01 11:32,HARDWARE,Media,Portal,Ventas,TEC-08,2,36.5,No,
+TK-10158,2025-02-06 20:18,Software,Baja,Portal,Finanzas,TEC-04,1,28.1,Sí,3
+TK-11352,2025-12-08 13:35,Accesos,Crítica,Portal,Operaciones,TEC-03,0,0.3,Sí,5
+TK-10734,2025-07-08 16:05,Accesos,Media,Portal,Finanzas,TEC-01,0,9.4,Sí,5
+TK-10820,2025-08-01 10:02,Hardware,Alta,Correo,Finanzas,TEC-01,0,9999,No,4
+TK-10066,2025-01-16 00:09,RED,Baja,Chat,Logística,TEC-06,1,26.0,Sí,3
+TK-10378,2025-04-06 16:31,Hardware,Crítica,Teléfono,Recursos Humanos,TEC-06,0,7.1,No,
+TK-11409,2025-12-22 03:48,Hardware,Media,Correo,Ventas,TEC-03,0,19.8,Sí,5
+TK-10028,2025-01-06 00:20, Hardware ,Media,Portal,Operaciones,TEC-03,2,37.9,No,4
+TK-10738,2025-07-09 04:40,Software,Alta,Correo,Logística,TEC-02,0,10.1,No,5
+TK-10108,2025-01-24 00:44,Software,Alta,Portal,Logística,TEC-03,0,2.2,Sí,4
+TK-10151,2025-02-02 23:21, Software ,Media,Correo,Operaciones,TEC-07,1,47.4,No,2
+TK-10488,2025-05-06 14:15,Hardware,Crítica,Portal,Finanzas,TEC-06,0,8.1,No,4
+TK-11070,2025-09-29 09:56,Red,alta,Teléfono,Operaciones,TEC-02,1,11.8,No,3
+TK-11141,2025-10-15 22:21,Accesos,Media,Portal,Finanzas,TEC-04,0,14.7,Sí,5
+TK-10248,2025-02-27 12:41,Software,Media,Correo,Logística,TEC-06,0,22.7,Sí,5
+TK-10615,2025-06-08 07:01,Software,Alta,Portal,Logística,TEC-02,2,"29,4",No,3
+TK-10979,2025-09-07 14:00,Hardware,Media,Portal,Finanzas,TEC-05,0,19.5,Sí,4
+TK-11443,2025-12-31 04:50,Software,Baja,Correo,Operaciones,TEC-02,2,32.9,Sí,4
+TK-11374,12/12/2025 19:32,Software,Media,Portal,Finanzas,TEC-03,2,30.9,No,
+TK-10194,2025-02-14 04:12,Hardware,Media,Portal,Logística,TEC-02,0,20.4,Sí,
+TK-10826,2025-08-02 00:39,Red,Media,Teléfono,Finanzas,TEC-02,1,18.7,Sí,4
+TK-10352,2025-03-29 23:43,Correo,Crítica,Portal,Operaciones,TEC-01,0,4.2,No,5
+TK-10598,2025-06-02 12:15,Hardware,Crítica,Teléfono,Operaciones,TEC-03,1,83.4,No,
+TK-10752,2025-07-13 08:51,Red,Alta,Teléfono,Recursos Humanos,TEC-07,1,40.6,No,
+TK-10355,2025-03-30 09:29,Software,Alta,Portal,Ventas,TEC-01,2,16.4,No,4
+TK-10852,2025-08-06 18:26,Software,Media,Correo,Recursos Humanos,TEC-02,0,"15,7",Sí,4
+TK-11375,2025-12-13 02:51,Accesos,Baja,Correo,Ventas,TEC-04,2,44.4,Sí,4
+TK-10954,2025-08-31 23:20,Accesos,Alta,Portal,Finanzas,TEC-02,0,7.9,Sí,5
+TK-10004,2025-01-01 21:41,Red,media,Chat,Operaciones,TEC-03,2,26.4,No,
+TK-10486,2025-05-06 07:28,SOFTWARE,Alta,Portal,Ventas,TEC-03,1,11.4,No,4
+TK-11280,2025-11-21 09:41,Accesos,Baja,Portal,Logística,TEC-04,0,19.1,Sí,5
+TK-11290,2025-11-23 17:52,Software,Alta,Correo,Recursos Humanos,TEC-04,0,13.1,No,5
+TK-11110,08/10/2025 05:53,Accesos,Media,Correo,Recursos Humanos,TEC-08,1,29.5,No,3
+TK-11220,05/11/2025 14:43,Red,Media,Portal,Recursos Humanos,TEC-01,0,17.4,si,4
+TK-11309,2025-11-29 17:34,Accesos,Baja,Chat,Finanzas,TEC-03,1,26.7,Sí,
+TK-11145,2025-10-17 16:10,Software,Media,Portal,Operaciones,TEC-02,1,20.3,Sí,4
+TK-11065,2025-09-27 22:19,Hardware,Media,Teléfono,Ventas,TEC-06,0,65.0,No,1
+TK-10149,2025-02-02 15:50,Hardware,Media,Teléfono,Recursos Humanos,TEC-07,0,16.8,Sí,3
+TK-10294,2025-03-12 23:31,Software,Baja,Teléfono,Ventas,TEC-01,1,37.6,Sí,2
+TK-10161,2025-02-07 16:58,Correo,crítica,Teléfono,Recursos Humanos,TEC-03,0,54.6,No,1
+TK-11353,2025-12-08 15:49,Hardware,Media,Portal,Recursos Humanos,TEC-01,0,23.4,Sí,3
+TK-10844,2025-08-05 05:09, Software ,Media,Portal,Ventas,TEC-05,0,11.8,Sí,3
+TK-10990,2025-09-09 19:51,Hardware,Media,Correo,Recursos Humanos,TEC-03,1,25.8,No,3
+TK-11092,2025-10-03 16:18,Software,Baja,Portal,Finanzas,TEC-07,0,18.8,Sí,3
+TK-11310,2025-11-29 17:40,Accesos,Media,Chat,Operaciones,TEC-05,2,18.3,Sí,2
+TK-10113,2025-01-25 08:37,Accesos,Alta,Correo,,TEC-05,1,,No,3
+TK-10567,2025-05-26 19:24,Accesos,Alta,Portal,Logística,TEC-01,1,17.9,No,4
+TK-10082,2025-01-19 04:29,Accesos,Media,Teléfono,Gerencia,TEC-06,1,15.5,Sí,3
+TK-10958,2025-09-01 13:26,Red,Media,Portal,Recursos Humanos,TEC-08,0,13.6,Sí,5
+TK-10145,2025-02-02 00:39,Software,Baja,Chat,Finanzas,TEC-07,0,21.8,Sí,5
+TK-10607,2025-06-06 00:01,Software,Media,Teléfono,Ventas,TEC-05,0,14.3,Sí,5
+TK-10791,2025-07-23 20:38,Red,Baja,Correo,Operaciones,TEC-08,1,31.5,Sí,3
+TK-11401,2025-12-20 02:36,Accesos,Alta,Portal,Recursos Humanos,TEC-05,2,15.1,No,3
+TK-10363,2025-04-01 20:47,Software,Baja,Correo,Operaciones,TEC-08,0,30.1,Sí,3
+TK-10639,2025-06-15 20:41,Hardware,Media,Portal,Operaciones,TEC-03,1,24.6,No,3
+TK-11086,2025-10-02 13:04,Hardware,Baja,Correo,Finanzas,TEC-02,1,47.0,Sí,2
+TK-10948,2025-08-31 05:17,Red,Alta,Portal,Gerencia,TEC-06,0,24.4,No,4
+TK-10138,2025-01-31 10:00,Hardware,Media,Correo,Operaciones,TEC-05,1,29.1,No,3
+TK-10491,2025-05-07 22:52,Hardware,alta,Chat,Recursos Humanos,TEC-06,1,14.1,No,5
+TK-10351,2025-03-29 18:34,red,Media,Portal,Operaciones,TEC-03,1,18.7,Sí,3
+TK-10344,2025-03-28 14:51,Accesos,BAJA,Correo,Logística,TEC-03,2,41.5,Sí,3
+TK-11171,2025-10-23 03:30,Software,Baja,Chat,Ventas,TEC-02,2,36.2,Sí,3
+TK-10949,2025-08-31 07:49,Hardware,Media,Portal,Ventas,TEC-01,0,20.4,si,3
+TK-10494,2025-05-08 18:47,Accesos,Alta,Correo,Recursos Humanos,TEC-05,1,8.3,No,5
+TK-10002,2025-01-01 11:44,Hardware,Crítica,Portal,Ventas,TEC-01,0,41.6,No,
+TK-10745,2025-07-11 17:24,Software,Baja,Teléfono,Finanzas,TEC-04,2,37.6,Sí,3
+TK-10819,2025-08-01 01:20,RED,Media,Portal,Operaciones,TEC-03,0,24.7,No,5
+TK-10963,2025-09-03 23:24,Correo,Alta,Teléfono,Ventas,TEC-08,4,26.6,No,3
+TK-11146,2025-10-17 22:29,Accesos,Baja,Teléfono,Finanzas,TEC-04,3,34.1,Sí,4
+TK-10928,2025-08-25 13:41,Correo,Alta,Portal,Finanzas,TEC-03,0,2.9,Sí,4
+TK-11349,2025-12-08 09:02,Software,Baja,Teléfono,Logística,TEC-01,1,"32,3",Sí,2
+TK-11042,2025-09-22 10:01,Accesos,Media,Chat,Ventas,TEC-08,0,24.7,No,3
+TK-11039,2025-09-21 18:57,Software,Baja,Portal,Ventas,TEC-07,0,37.7,Sí,3
+TK-11080,2025-10-01 03:45,Hardware,Baja,Portal,Ventas,TEC-03,2,55.1,No,2
+TK-11437,2025-12-30 00:34,Red,Media,Chat,Operaciones,TEC-07,2,25.1,No,4
+TK-11000,2025-09-11 14:38,Accesos,Media,Portal,Operaciones,TEC-01,2,23.7,Sí,4
+TK-10188,2025-02-12 05:00,Accesos,Baja,Portal,Logística,TEC-07,0,19.6,Sí,
+TK-10088,2025-01-20 10:42,Software,Baja,Teléfono,Operaciones,TEC-05,1,22.8,Sí,2
+TK-10759,2025-07-14 12:45,Correo,Baja,Correo,Operaciones,TEC-03,0,19.2,Sí,4
+TK-11205,2025-10-31 04:50,Software,Media,Teléfono,Ventas,TEC-07,1,14.0,Sí,3
+TK-10401,2025-04-12 00:49,Hardware,Media,Chat,Operaciones,TEC-08,1,22.1,Sí,4
+TK-11221,2025-11-05 16:33,Accesos,Baja,Portal,Operaciones,TEC-06,0,21.1,Sí,4
+TK-10806,2025-07-27 18:18,Software,Alta,Correo,Ventas,TEC-04,0,63.3,No,1
+TK-10007,2025-01-02 07:56,ACCESOS,Media,Teléfono,Operaciones,TEC-04,1,11.7,Sí,5
+TK-11133,2025-10-14 22:57,Accesos,Baja,Chat,Ventas,TEC-01,1,18.2,si,
+TK-10032,2025-01-06 12:26,Red,Media,Correo,Finanzas,TEC-03,0,18.2,Sí,4
+TK-10318,2025-03-19 05:52,Accesos,Crítica,Portal,Ventas,TEC-02,0,"0,3",Sí,5
+TK-11120,2025-10-11 03:13,Software,Baja,Correo,Ventas,TEC-03,1,28.7,Sí,3
+TK-11417,2025-12-24 21:21,Red,baja,Chat,Ventas,TEC-02,1,9999,Sí,4
+TK-10181,2025-02-10 20:58,Red,Media,Portal,Finanzas,TEC-03,0,17.8,Sí,3
+TK-10882,2025-08-14 18:26,Correo,baja,Teléfono,Operaciones,TEC-01,0,24.0,Sí,
+TK-10973,2025-09-05 08:02,Correo,Media,Correo,Ventas,TEC-07,2,46.0,No,2
+TK-11083,2025-10-01 16:06,Accesos,Alta,Portal,Logística,TEC-06,0,2.8,Sí,5
+TK-10812,2025-07-28 23:20,red,Media,Portal,Operaciones,TEC-04,1,29.4,No,4
+TK-11424,2025-12-27 06:54,Hardware,Media,Teléfono,Logística,TEC-01,1,27.0,No,3
+TK-10807,2025-07-27 18:58,Software,Baja,Correo,Ventas,TEC-02,1,34.5,Sí,3
+TK-10390,2025-04-09 13:26,Red,Media,Chat,Finanzas,TEC-05,1,19.8,Sí,4
+TK-10187,2025-02-12 00:10,Accesos,Baja,Teléfono,Logística,TEC-06,0,15.5,Sí,5
+TK-10412,2025-04-15 08:06,Hardware,Baja,Chat,Operaciones,TEC-01,0,24.4,Sí,5
+TK-10264,2025-03-02 11:53,Hardware,crítica,Portal,Ventas,TEC-05,1,"13,4",No,3
+TK-10572,2025-05-28 00:57,Red,media,Teléfono,Logística,TEC-05,0,,Sí,2
+TK-10449,2025-04-25 13:24,software,Media,Teléfono,Finanzas,TEC-01,0,12.8,Sí,4
+TK-11015,2025-09-14 23:53,Software,Baja,Teléfono,Finanzas,TEC-05,1,37.2,Sí,4
+TK-11289,2025-11-23 14:18,Red,Media,Chat,Recursos Humanos,TEC-07,0,10.9,Sí,5
+TK-10167,2025-02-08 04:43,Hardware,Media,Portal,Ventas,TEC-03,0,21.8,Sí,5
+TK-10361,2025-03-31 10:04,Red,Alta,Correo,Operaciones,TEC-07,1,16.3,No,4
+TK-10087,2025-01-20 10:19,Software,Baja,Teléfono,,TEC-05,1,27.5,Sí,2
+TK-11295,2025-11-23 22:58,Accesos,Alta,Portal,Operaciones,TEC-02,1,5.9,Sí,4
+TK-10579,2025-05-29 12:16,red,Media,Teléfono,Operaciones,TEC-01,2,26.3,No,3
+TK-10340,2025-03-27 06:33,Correo,Media,Correo,Logística,TEC-05,1,38.3,No,3
+TK-11272,2025-11-19 10:51,Software,BAJA,Portal,Operaciones,TEC-03,1,24.2,Sí,5
+TK-10708,2025-07-04 21:15,Red,Alta,Correo,Logística,TEC-05,0,12.3,NO,
+TK-10124,27/01/2025 23:01,Correo,CRITICA,Portal,Finanzas,TEC-04,0,0.3,Sí,4
+TK-10616,2025-06-08 14:09,Red,Media,Teléfono,Logística,TEC-05,2,25.8,No,2
+TK-10244,2025-02-26 05:03,Red,Baja,Chat,Ventas,TEC-02,1,26.2,Sí,4
+TK-10875,2025-08-12 21:28,Correo,Media,Portal,Finanzas,TEC-06,0,12.7,Sí,4
+TK-10878,2025-08-13 04:09,Red,Baja,Portal,Ventas,TEC-06,1,27.8,Sí,5
+TK-10476,2025-05-02 04:57,Red,Baja,Correo,Operaciones,TEC-03,0,41.6,Sí,3
+TK-10992,2025-09-10 03:10,Software,Alta,Correo,Gerencia,TEC-03,0,12.9,NO,4
+TK-11154,2025-10-18 22:45,Hardware,Alta,Chat,Finanzas,TEC-07,2,19.3,No,4
+TK-11441,2025-12-30 11:34,Accesos,Baja,Chat,Operaciones,TEC-04,0,18.8,si,4
+TK-11343,2025-12-07 12:58,software,Media,Teléfono,Logística,TEC-06,1,42.0,No,4
+TK-10289,2025-03-10 09:48,Software,Media,Correo,,TEC-08,2,,NO,3
+TK-11032,2025-09-19 15:41,Software,Baja,Correo,Gerencia,TEC-02,1,45.3,Sí,3
+TK-10886,2025-08-15 19:35,Hardware,Media,Correo,Logística,TEC-06,1,27.4,No,
+TK-10263,2025-03-02 10:23,Hardware,Media,Correo,Finanzas,TEC-02,1,34.2,No,4
+TK-10058,2025-01-14 21:39,Correo,Baja,Portal,Logística,TEC-01,0,15.7,Sí,4
+TK-10250,2025-02-27 20:37,Hardware,Alta,Teléfono,Ventas,TEC-02,0,28.6,No,2
+TK-10029,2025-01-06 02:29,Accesos,Baja,Correo,Ventas,TEC-01,1,9999,Sí,3
+TK-10914,2025-08-22 12:09,Correo,Media,Teléfono,Recursos Humanos,TEC-05,1,16.0,Sí,
+TK-10020,2025-01-05 02:32,Red,Alta,Portal,Operaciones,TEC-04,0,6.7,Sí,5
+TK-11048,2025-09-23 04:35,Hardware,Crítica,Portal,Finanzas,TEC-05,0,6.4,No,4
+TK-10350,2025-03-29 13:44,Correo,Media,Correo,Operaciones,TEC-08,0,13.9,Sí,5
+TK-11294,2025-11-23 22:20,Software,Crítica,Chat,Operaciones,TEC-05,1,18.9,No,4
+TK-11142,2025-10-16 12:09,Software,Alta,Correo,Recursos Humanos,TEC-04,2,27.7,No,4
+TK-10627,2025-06-10 05:51,Software,Baja,Teléfono,Logística,TEC-07,0,19.4,Sí,4
+TK-10440,2025-04-23 03:20,Accesos,Media,Portal,Finanzas,TEC-01,0,22.0,Sí,4
+TK-10212,2025-02-19 18:50,Software,Baja,Portal,Operaciones,TEC-04,0,25.6,Sí,4
+TK-10549,2025-05-22 01:35,Accesos,Media,Portal,Logística,TEC-07,1,"20,8",Sí,3
+TK-10935,2025-08-27 01:59,Software,Baja,Chat,Finanzas,TEC-02,1,33.9,Sí,3
+TK-10375,2025-04-05 18:54,Software,Alta,Portal,Finanzas,TEC-08,0,7.8,Sí,4
+TK-10443,2025-04-24 01:37,Hardware,Baja,Portal,Operaciones,TEC-03,0,,No,1
+TK-10744,2025-07-10 19:54,Software,Media,Teléfono,Operaciones,TEC-08,2,19.4,Sí,4
+TK-10052,2025-01-12 04:00, Hardware ,Media,Teléfono,Recursos Humanos,TEC-04,0,21.3,si,5
+TK-10788,2025-07-23 09:05,Software,Media,Teléfono,,TEC-05,1,18.8,Sí,0
+TK-11082,2025-10-01 09:12,Hardware,Crítica,Portal,Finanzas,TEC-03,0,14.6,No,3
+TK-11066,2025-09-28 10:23,Hardware,Media,Correo,Recursos Humanos,TEC-08,0,32.4,No,2
+TK-10059,2025-01-14 22:32,Accesos,Media,Correo,Recursos Humanos,TEC-06,5,43.4,No,3
+TK-11182,2025-10-24 18:58,SOFTWARE,Media,Teléfono,Operaciones,TEC-03,2,25.7,No,3
+TK-10574,2025-05-28 06:03,Accesos,Alta,Teléfono,Ventas,TEC-08,0,3.3,Sí,5
+TK-10049,2025-01-11 07:40,Hardware,Crítica,Portal,Operaciones,TEC-08,1,18.2,No,5
+TK-11056,26/09/2025 01:03,Red,Alta,Portal,Recursos Humanos,TEC-07,0,6.3,Sí,5
+TK-10043,2025-01-09 09:40,Software,Baja,Chat,Logística,TEC-06,1,35.9,Sí,3
+TK-11281,2025-11-21 23:20,Red,alta,Portal,Operaciones,TEC-05,0,8.8,No,5
+TK-10690,2025-06-29 04:51,Hardware,Media,Chat,Recursos Humanos,TEC-04,0,17.2,Sí,4
+TK-11238,2025-11-11 12:52,Correo,Alta,Chat,Finanzas,TEC-06,0,1.4,Sí,4
+TK-11421,2025-12-25 15:39,Accesos,Media,Teléfono,Finanzas,TEC-06,0,,si,4
+TK-10127,2025-01-28 15:16,Correo,Alta,Correo,Ventas,TEC-01,0,15.0,No,4
+TK-11090,2025-10-03 08:35, Red ,Baja,Portal,Finanzas,TEC-01,2,39.1,Sí,
+TK-11301,27/11/2025 00:37,Accesos,Media,Chat,Operaciones,TEC-08,0,18.7,Sí,
+TK-10566,2025-05-26 13:04,Accesos,Alta,Portal,Operaciones,TEC-01,1,14.6,No,4
+TK-11275,2025-11-20 07:15,correo,MEDIA,Teléfono,Ventas,TEC-02,1,9999,Sí,4
+TK-10313,2025-03-18 06:53,Hardware,Baja,Portal,Ventas,TEC-03,0,27.7,Sí,5
+TK-11423,2025-12-26 00:59, Software ,Media,Teléfono,Operaciones,TEC-02,0,12.3,Sí,
+TK-10302,2025-03-15 22:28,Hardware,Baja,Correo,Ventas,TEC-07,2,"79,0",No,
+TK-11062,2025-09-27 14:19,Hardware,Alta,Portal,Ventas,TEC-07,0,20.6,No,4
+TK-10120,2025-01-27 00:25,Correo,Crítica,Teléfono,Ventas,TEC-08,3,43.8,No,
+TK-10288,2025-03-09 19:03,Software,Baja,Chat,Operaciones,TEC-06,2,35.7,Sí,
+TK-11057,2025-09-26 04:17,Software,Crítica,Portal,Recursos Humanos,TEC-07,2,22.3,No,2
+TK-10374,05/04/2025 10:27,Red,Crítica,Chat,Finanzas,TEC-08,0,0.3,Sí,5
+TK-10872,2025-08-11 23:00,Hardware,Media,Chat,,TEC-04,0,18.7,Sí,5
+TK-10607,2025-06-06 00:01,Software,Media,Teléfono,Ventas,TEC-05,0,14.3,Sí,5
+TK-11215,2025-11-03 16:04,Correo,Media,Correo,Operaciones,TEC-03,1,22.9,Sí,3
+TK-10031,2025-01-06 12:08,Accesos,Media,Chat,Operaciones,TEC-01,0,7.8,Sí,5
+TK-10064,2025-01-15 18:14,Accesos,Baja,Portal,Logística,TEC-07,1,35.1,Sí,3
+TK-10792,2025-07-23 21:31,Correo,Baja,Teléfono,Logística,TEC-08,1,60.4,No,1
+TK-10202,2025-02-17 17:05,Accesos,Media,Portal,Operaciones,TEC-08,0,9.0,si,
+TK-10728,2025-07-07 17:13,Hardware,Baja,Chat,Operaciones,TEC-01,0,31.1,Sí,
+TK-10686,2025-06-28 03:50,Red,Baja,Correo,Operaciones,TEC-05,1,36.6,Sí,3
+TK-10065,2025-01-15 18:22,Software,Media,Portal,Logística,TEC-06,3,34.2,No,
+TK-10634,2025-06-13 20:11,Software,Alta,Teléfono,Operaciones,TEC-02,2,13.2,No,5
+TK-10657,2025-06-20 21:29,Hardware,Baja,Portal,Ventas,TEC-06,1,37.8,Sí,
+TK-10179,10/02/2025 13:34,Software,Crítica,Teléfono,Operaciones,TEC-03,3,19.3,No,3
+TK-10463,29/04/2025 17:42,Software,Baja,Portal,Ventas,TEC-05,0,21.7,Sí,5
+TK-10229,2025-02-23 04:58,Correo,Media,Portal,Finanzas,TEC-07,1,14.1,Sí,3
+TK-11229,2025-11-09 00:47,Software,Media,Portal,Operaciones,TEC-06,2,30.7,No,2
+TK-10081,2025-01-18 20:22,Red,Crítica,Portal,Operaciones,TEC-03,0,12.4,No,3
+TK-10751,2025-07-13 08:09, Software ,ALTA,Portal,Finanzas,TEC-07,1,"17,4",No,3
+TK-10978,2025-09-07 04:03,Software,Baja,Correo,Operaciones,TEC-01,1,33.5,Sí,4
+TK-10457,2025-04-27 06:31,Red,Crítica,Portal,Operaciones,TEC-06,0,2.7,Sí,5
+TK-11350,2025-12-08 12:03,Hardware,Media,Teléfono,Ventas,TEC-06,0,15.5,Sí,5
+TK-10328,2025-03-23 11:17,Software,Media,Teléfono,Recursos Humanos,TEC-04,0,10.6,Sí,
+TK-11028,2025-09-18 23:42,Red,Media,Correo,Operaciones,TEC-06,1,28.0,No,3
+TK-10285,09/03/2025 12:42,Hardware,Media,Correo,Operaciones,TEC-05,0,36.5,No,4
+TK-11407,2025-12-21 03:53,Accesos,Baja,Portal,Operaciones,TEC-04,1,,Sí,
+TK-11372,12/12/2025 14:54,Correo,Media,Portal,Operaciones,TEC-06,1,19.1,Sí,4
+TK-10880,14/08/2025 13:16,Software,Media,Chat,Ventas,TEC-03,1,21.1,Sí,2
+TK-10928,2025-08-25 13:41,Correo,Alta,Portal,Finanzas,TEC-03,0,2.9,Sí,4
+TK-10210,2025-02-19 08:01,SOFTWARE,Media,Chat,Logística,TEC-08,2,50.8,No,3
+TK-10834,2025-08-03 15:10,Hardware,Media,Chat,Finanzas,TEC-04,0,21.3,Sí,
+TK-11208,2025-11-01 12:27,RED,Baja,Correo,Finanzas,TEC-07,0,30.6,Sí,3
+TK-10098,2025-01-22 09:11,Hardware,Media,Teléfono,Operaciones,TEC-05,2,29.4,No,
+TK-10284,2025-03-09 09:09,Accesos,Alta,Portal,Operaciones,TEC-07,1,16.9,No,2
+TK-11219,2025-11-05 12:42,Accesos,Baja,Chat,Finanzas,TEC-02,1,22.2,Sí,4
+TK-11072,29/09/2025 12:06,Software,media,Chat,Recursos Humanos,TEC-08,0,16.6,Sí,5
+TK-10612,2025-06-07 07:18,Hardware,Media,Chat,Finanzas,TEC-02,0,24.4,No,4
+TK-10955,2025-08-31 23:21,Hardware,Media,Correo,Logística,TEC-08,0,33.7,No,2
+TK-11139,2025-10-15 13:25,Red,Media,Portal,Operaciones,TEC-01,1,37.2,No,3
+TK-11338,2025-12-05 22:49,Red,ALTA,Portal,Finanzas,TEC-04,0,5.5,Sí,4
+TK-11404,20/12/2025 14:54,Hardware,Baja,Teléfono,Finanzas,TEC-04,2,35.2,Sí,3
+TK-11318,2025-12-02 00:42,Red,Alta,Correo,Operaciones,TEC-05,0,26.4,No,5
+TK-10897,2025-08-17 17:27,Software,Alta,Portal,Recursos Humanos,TEC-01,0,4.9,Sí,5
+TK-11041,21/09/2025 23:31,Hardware,Crítica,Chat,Operaciones,TEC-06,2,28.3,No,2
+TK-10636,2025-06-14 20:39,Software,Baja,Correo,Gerencia,TEC-06,0,21.6,Sí,
+TK-10887,2025-08-16 04:17,Software,Alta,Portal,Ventas,TEC-05,1,9.2,No,3
+TK-10362,2025-03-31 10:18,Software,Baja,Teléfono,Logística,TEC-05,0,24.1,Sí,3
+TK-10571,2025-05-27 23:30,Accesos,Media,Portal,Finanzas,TEC-06,0,13.8,Sí,4
+TK-10493,2025-05-08 18:42,Software,Alta,Portal,Operaciones,TEC-06,0,21.2,No,4
+TK-10550,2025-05-22 20:21,Red,Baja,Portal,Ventas,TEC-03,0,46.2,Sí,4
+TK-10336,2025-03-25 23:24,Red,Baja,Chat,Finanzas,TEC-06,0,24.4,Sí,
+TK-10133,2025-01-30 22:47,Hardware,MEDIA,Portal,Ventas,TEC-02,0,17.5,Sí,
+TK-11431,29/12/2025 01:45,Accesos,Baja,Portal,Finanzas,TEC-03,0,21.7,Sí,
+TK-10354,2025-03-30 09:23,accesos,Media,Correo,Ventas,TEC-01,0,,No,
+TK-10073,2025-01-17 12:01,Red,Media,Portal,Ventas,TEC-03,0,13.4,Sí,
+TK-11386,2025-12-15 12:00,Correo,Baja,Correo,Ventas,TEC-01,1,33.8,Sí,3
+TK-10144,2025-02-01 23:08,Hardware,Baja,Teléfono,Operaciones,TEC-01,0,29.1,Sí,
+TK-10680,2025-06-26 00:57, Accesos ,Alta,Portal,Finanzas,TEC-07,1,11.5,No,
+TK-11348,2025-12-08 03:07,Software,Baja,Portal,Finanzas,TEC-04,1,33.9,Sí,4
+TK-11373,2025-12-12 15:00,Correo,Baja,Portal,Operaciones,TEC-06,2,40.7,Sí,1
+TK-10613,2025-06-07 14:12,Accesos,Baja,Portal,Operaciones,TEC-07,1,25.3,si,4
+TK-10381,2025-04-07 13:29,Software,Media,Portal,Finanzas,TEC-06,1,"20,8",Sí,5
+TK-10478,2025-05-04 00:32,Correo,Media,Portal,Gerencia,TEC-06,0,8.0,Sí,5
+TK-10290,11/03/2025 03:52,Hardware,BAJA,Chat,Ventas,TEC-03,1,30.2,si,3
+TK-10315,2025-03-18 17:16,Accesos,Baja,Portal,Recursos Humanos,TEC-02,2,28.2,Sí,3
+TK-11151,2025-10-18 12:08,Hardware,Alta,Teléfono,Recursos Humanos,TEC-03,2,84.8,No,1
+TK-10826,2025-08-02 00:39,Red,Media,Teléfono,Finanzas,TEC-02,1,18.7,Sí,4
+TK-11146,2025-10-17 22:29,Accesos,Baja,Teléfono,Finanzas,TEC-04,3,34.1,Sí,4
+TK-10403,2025-04-12 18:45,Correo,Crítica,Portal,Operaciones,TEC-08,0,0.4,Sí,5
+TK-10761,2025-07-15 21:13,Hardware,Media,Correo,Recursos Humanos,TEC-05,1,25.9,No,3
+TK-10335,2025-03-25 09:20,Red,media,Chat,Ventas,TEC-06,0,18.4,Sí,5
+TK-10209,2025-02-18 16:28,Software,Crítica,Teléfono,Ventas,TEC-02,1,18.6,No,
+TK-11054,2025-09-25 11:05,Accesos,Media,Portal,Ventas,TEC-07,1,17.9,Sí,
+TK-11055,2025-09-25 14:28,Red,Baja,Teléfono,Ventas,TEC-04,1,33.1,Sí,3
+TK-10582,2025-05-29 20:51,Correo,Alta,Correo,Ventas,TEC-01,0,21.6,No,4
+TK-10741,2025-07-10 07:45,Software,Alta,Portal,Logística,TEC-02,0,9.8,No,4
+TK-10711,2025-07-05 05:11,Software,Alta,Teléfono,Operaciones,TEC-03,2,13.2,No,
+TK-10155,2025-02-04 22:10,Software,Media,Portal,Logística,TEC-04,0,13.8,Sí,4
+TK-11153,2025-10-18 14:33,Accesos,Alta,Portal,Finanzas,TEC-02,0,0.3,Sí,5
+TK-10176,2025-02-09 17:57,Red,Media,Chat,Finanzas,TEC-04,0,,Sí,
+TK-10008,2025-01-02 07:58,Accesos,Baja,Correo,Ventas,TEC-01,0,36.8,Sí,
+TK-11131,2025-10-14 16:15,Hardware,Baja,Correo,Finanzas,TEC-03,1,69.9,No,2
+TK-11340,2025-12-06 03:30,Accesos,Media,Teléfono,Finanzas,TEC-02,3,24.6,No,5
+TK-10425,2025-04-17 22:52,Red,Media,Correo,Logística,TEC-04,0,41.4,No,5
+TK-10153,2025-02-03 19:46,Red,Baja,Portal,Recursos Humanos,TEC-08,0,,Sí,3
+TK-10540,2025-05-19 08:34,Red,Alta,Chat,Finanzas,TEC-02,0,15.2,No,2
+TK-11403,2025-12-20 08:46,Correo,Media,Correo,Ventas,TEC-07,0,16.8,Sí,4
+TK-10856,2025-08-07 13:53,Software,Media,Portal,Operaciones,TEC-07,0,15.0,Sí,5
+TK-10239,2025-02-24 15:52,Software,Media,Portal,Operaciones,TEC-04,1,24.0,Sí,4
+TK-10360,2025-03-31 08:45,Hardware,Baja,Chat,Operaciones,TEC-07,2,92.3,No,1
+TK-10079,2025-01-18 09:16,Software,Alta,Correo,Finanzas,TEC-03,1,15.5,No,5
+TK-10228,2025-02-23 00:09,Red,Critica,Portal,Recursos Humanos,TEC-01,0,5.3,No,5
+TK-10588,2025-05-31 02:49,Correo,Alta,Teléfono,Logística,TEC-05,2,31.1,No,
+TK-10555,2025-05-23 14:42,Accesos,Alta,Portal,Operaciones,TEC-08,1,4.9,Sí,4
+TK-10117,2025-01-26 05:22,Correo,Media,Teléfono,Operaciones,TEC-07,0,9.6,Sí,5
+TK-10324,2025-03-22 10:43,Software,Baja,Portal,Recursos Humanos,TEC-07,0,20.2,Sí,5
+TK-10147,2025-02-02 05:28,Hardware,Media,Portal,Ventas,TEC-01,1,37.3,No,2
+TK-11428,2025-12-27 21:34,Software,Media,Teléfono,Recursos Humanos,TEC-08,3,26.9,No,
+TK-10784,2025-07-21 14:29,Red,Baja,Portal,Ventas,TEC-04,1,42.5,Sí,3
+TK-10174,2025-02-09 14:31,Software,Media,Correo,Operaciones,TEC-03,3,32.8,No,4
+TK-11106,2025-10-07 07:34,Red,media,Chat,Ventas,TEC-02,0,25.3,No,2
+TK-11371,2025-12-12 04:14,Correo,Crítica,Correo,Ventas,TEC-06,2,13.2,No,3
+TK-10047,2025-01-11 03:26,Software,Alta,Portal,Operaciones,TEC-06,0,12.3,No,5
+TK-11268,2025-11-18 04:01,Accesos,Baja,Portal,Operaciones,TEC-05,1,41.8,Sí,3
+TK-10746,2025-07-11 18:59,Hardware,Baja,Correo,Operaciones,TEC-03,2,41.7,Sí,3
+TK-10148,2025-02-02 13:34,Hardware,Media,Correo,Operaciones,TEC-04,1,95.6,No,1
+TK-10415,2025-04-15 16:12,Correo,Media,Teléfono,Operaciones,TEC-02,1,20.6,Sí,
+TK-10154,2025-02-04 14:25,Red,Alta,Correo,Finanzas,TEC-08,0,18.4,No,4
+TK-10563,2025-05-24 15:37,Software,Baja,Correo,Ventas,TEC-02,0,21.2,Sí,4
+TK-10649,18/06/2025 20:18,Software,Baja,Portal,Operaciones,TEC-06,0,24.6,Sí,3
+TK-10428,2025-04-18 13:53,Software,MEDIA,Teléfono,Ventas,TEC-05,0,17.1,Sí,3
+TK-10165,2025-02-07 23:59,Red,Media,Chat,Ventas,TEC-03,0,12.4,Sí,3
+TK-10704,2025-07-04 01:37,Software,Baja,Teléfono,Recursos Humanos,TEC-01,1,"26,6",Sí,5
+TK-10936,2025-08-27 10:34,Red,BAJA,Correo,Operaciones,TEC-02,1,39.0,Sí,3
+TK-11263,2025-11-16 04:06,Hardware,Alta,Correo,Ventas,TEC-07,0,20.5,No,4
+TK-10553,2025-05-23 10:42,Hardware,MEDIA,Correo,Ventas,TEC-02,2,40.5,No,
+TK-10797,2025-07-24 18:02,hardware,Baja,Portal,Ventas,TEC-02,1,30.6,Sí,3
+TK-11265,2025-11-16 20:49,Correo,BAJA,Portal,Operaciones,TEC-07,1,28.5,Sí,3
+TK-10387,2025-04-08 18:50,Correo,Media,Portal,Finanzas,TEC-06,0,12.2,Sí,4
+TK-10236,2025-02-24 13:27,Red,Alta,Correo,Operaciones,TEC-05,1,25.4,No,3
+TK-10123,2025-01-27 22:27,Hardware,Media,Portal,Finanzas,TEC-03,0,89.9,No,2
+TK-10096,2025-01-21 23:55,Hardware,Media,Teléfono,Ventas,TEC-05,0,"21,3",Sí,
+TK-10211,2025-02-19 09:07,Hardware,Critica,Correo,Finanzas,TEC-07,0,22.2,No,4
+TK-10046,2025-01-11 00:26,Hardware,Baja,Correo,Finanzas,TEC-02,0,,Sí,5
+TK-10569,2025-05-27 07:15,Correo,Baja,Portal,Ventas,TEC-07,0,18.3,Sí,4
+TK-11184,2025-10-24 21:41,Hardware,Media,Portal,Logística,TEC-03,0,17.8,Sí,
+TK-10163,2025-02-07 21:50,Red,Media,Chat,Ventas,TEC-02,0,19.2,Sí,4
+TK-10383,2025-04-08 02:10,Correo,Baja,Chat,Finanzas,TEC-06,1,37.5,Sí,3
+TK-10843,2025-08-05 02:44,Accesos,Media,Teléfono,Operaciones,TEC-04,2,33.7,No,3
+TK-10459,2025-04-27 16:02,Accesos,Baja,Portal,Gerencia,TEC-02,1,34.9,Sí,3
+TK-10693,2025-06-30 02:52,Hardware,Media,Correo,Finanzas,TEC-04,1,30.4,No,4
+TK-10970,2025-09-05 02:51,Accesos,Baja,Correo,Gerencia,TEC-02,0,23.8,Sí,3
+TK-10611,2025-06-07 06:08,Correo,Alta,Correo,Ventas,TEC-01,0,4.9,Sí,3
+TK-10710,2025-07-05 03:21,Red,Media,Portal,Operaciones,TEC-03,1,19.5,Sí,3
+TK-10516,2025-05-14 11:35,Hardware,Media,Chat,Operaciones,TEC-01,5,58.3,No,2
+TK-10191,2025-02-13 01:41,Correo,Baja,Teléfono,Operaciones,TEC-08,0,23.7,Sí,3
+TK-10783,2025-07-21 04:17,Hardware,Media,Correo,Finanzas,TEC-01,0,"28,1",No,4
+TK-11339,2025-12-06 01:44,Software,Media,Portal,Operaciones,TEC-06,0,16.1,Sí,4
+TK-10855,2025-08-07 12:00,Hardware,Crítica,Teléfono,Logística,TEC-06,0,5.6,No,4
+TK-10756,2025-07-14 01:31,Accesos,Baja,Correo,Operaciones,TEC-05,1,29.2,Sí,4
+TK-10621,2025-06-09 04:02,Red,Alta,Chat,Ventas,TEC-02,0,3.1,Sí,5
+TK-10169,08/02/2025 17:44,Red,Media,Portal,Ventas,TEC-03,0,15.7,Sí,5
+TK-10256,2025-03-01 19:03,Correo,Alta,Correo,Finanzas,TEC-06,1,8.8,No,5
+TK-10092,2025-01-21 09:08,Accesos,Alta,Correo,Logística,TEC-05,0,10.8,No,4
+TK-11311,2025-11-30 01:07,Hardware,Alta,Correo,Finanzas,TEC-07,0,18.4,No,
+TK-11010,2025-09-14 00:16,Hardware,Alta,Teléfono,Operaciones,TEC-08,1,14.7,No,5
+TK-11444,2025-12-31 07:05,Hardware,Media,Portal,Ventas,TEC-05,0,21.6,Sí,5
+TK-11394,2025-12-18 08:21,Red,Baja,Portal,Ventas,TEC-04,2,"42,4",Sí,2
+TK-10713,2025-07-05 08:44,Accesos,Baja,Chat,Gerencia,TEC-06,0,24.3,Sí,2
+TK-10597,2025-06-02 09:55,Accesos,Alta,Teléfono,Finanzas,TEC-03,0,10.8,No,
+TK-11189,2025-10-25 21:41,Software,Media,Correo,Ventas,TEC-07,1,23.3,Sí,3
+TK-10251,2025-02-27 22:47,Software,media,Portal,Finanzas,TEC-07,1,32.1,No,4
+TK-10371,2025-04-05 00:37,Correo,Media,Correo,Finanzas,TEC-05,1,25.0,No,3
+TK-11406,2025-12-20 22:01,Accesos,Alta,Chat,Ventas,TEC-07,1,10.6,No,5
+TK-10170,2025-02-08 22:08,Red,Media,Portal,,TEC-02,1,27.9,No,2
+TK-10074,2025-01-17 13:45,Red,MEDIA,Teléfono,Recursos Humanos,TEC-07,0,16.8,Sí,5
+TK-11266,2025-11-17 23:02,Hardware,Alta,Portal,Operaciones,TEC-08,1,16.6,No,5
+TK-10041,2025-01-08 20:30,CORREO,Alta,Portal,Logística,TEC-06,3,20.5,No,2
+TK-10846,2025-08-05 14:50,red,Baja,Portal,Ventas,TEC-03,2,62.4,No,2
+TK-10678,2025-06-25 19:41,Accesos,Baja,Teléfono,Finanzas,TEC-07,2,45.1,Sí,2
+TK-10394,2025-04-09 23:39,Red,Alta,Portal,Recursos Humanos,TEC-01,0,8.5,No,5
+TK-10530,2025-05-17 03:07,Red,Alta,Portal,Recursos Humanos,TEC-03,0,11.9,No,
+TK-10824,2025-08-01 18:50,Hardware,Media,Portal,Ventas,TEC-02,1,24.0,Sí,4
+TK-10932,2025-08-26 10:53,Accesos,Media,Portal,Finanzas,TEC-08,1,18.5,Sí,3
+TK-10424,2025-04-17 17:52,Software,Crítica,Portal,Finanzas,TEC-06,1,9.0,No,5
+TK-10348,2025-03-29 11:08,Red,Alta,Portal,Finanzas,TEC-05,3,29.7,No,3
+TK-10499,10/05/2025 21:41,Software,Alta,Teléfono,Recursos Humanos,TEC-03,1,6.5,Sí,4
+TK-10422,2025-04-17 10:59,Red,Alta,Portal,Gerencia,TEC-04,1,14.7,No,4
+TK-10505,2025-05-11 17:52,Accesos,MEDIA,Correo,Logística,TEC-08,0,13.2,Sí,5
+TK-10847,2025-08-06 03:28,Software,Media,Chat,Finanzas,TEC-04,1,74.1,No,1
+TK-11123,2025-10-11 20:14,Red,Media,Correo,Ventas,TEC-04,0,17.8,Sí,3
+TK-10898,2025-08-18 12:32,Correo,Baja,Correo,Operaciones,TEC-02,2,30.6,Sí,3
+TK-10823,2025-08-01 15:15,Software,Media,Teléfono,Operaciones,TEC-01,0,21.3,Sí,
+TK-11387,2025-12-16 04:44, Red ,Baja,Teléfono,Operaciones,TEC-02,1,27.5,Sí,
+TK-11158,2025-10-19 13:48,Accesos,Media,Correo,Operaciones,TEC-04,0,19.7,Sí,3
+TK-10510,2025-05-12 11:57,Accesos,Alta,Chat,Ventas,TEC-07,2,10.2,NO,
+TK-11262,2025-11-16 00:40,Hardware,Media,Portal,Ventas,TEC-01,1,"27,8",No,4
+TK-11234,2025-11-10 20:52,Accesos,Baja,Portal,Gerencia,TEC-03,0,32.8,Sí,3
+TK-10116,2025-01-26 00:38,Red,Media,Portal,Operaciones,TEC-06,0,27.1,No,
+TK-10297,2025-03-14 04:54,Software,Baja,Portal,Recursos Humanos,TEC-06,1,28.0,Sí,4
+TK-10778,2025-07-20 00:41,Red,Baja,Correo,Operaciones,TEC-01,1,42.7,Sí,
+TK-11161,2025-10-20 21:31,Hardware,Baja,Chat,Ventas,TEC-08,1,36.4,Sí,3
+TK-10469,2025-05-01 03:21,ACCESOS,Media,Teléfono,Ventas,TEC-03,0,13.4,Sí,4
+TK-10890,2025-08-16 14:38,Software,baja,Teléfono,Recursos Humanos,TEC-08,0,,Sí,5
+TK-10451,2025-04-26 00:14,Hardware,Baja,Portal,Recursos Humanos,TEC-02,0,101.9,NO,2
+TK-11108,2025-10-07 16:57,Accesos,Alta,Portal,Logística,TEC-01,0,7.2,Sí,3
+TK-10911,2025-08-21 19:56,Correo,Media,Teléfono,Finanzas,TEC-01,1,15.5,Sí,5
+TK-10689,2025-06-29 03:05,Software,Alta,Chat,Ventas,TEC-01,0,1.2,Sí,5
+TK-10515,2025-05-13 10:54,Correo,Media,Portal,Finanzas,TEC-07,0,13.3,Sí,4
+TK-10483,2025-05-06 00:24,Software,Media,Teléfono,Gerencia,TEC-05,0,15.2,Sí,5
+TK-10775,2025-07-19 09:28,Accesos,Media,Portal,Ventas,TEC-04,2,30.4,No,2
+TK-10877,2025-08-13 03:26,Correo,Media,Chat,Ventas,TEC-06,0,16.4,Sí,4
+TK-10769,2025-07-17 18:08,Software,MEDIA,Portal,Finanzas,TEC-01,3,47.5,No,3
+TK-10388,2025-04-08 20:31,Software,Media,Chat,Operaciones,TEC-01,0,23.1,Sí,4
+TK-10203,2025-02-17 18:41,hardware,Media,Teléfono,Ventas,TEC-02,0,"15,7",Sí,4
+TK-10503,2025-05-11 15:16,Software,Alta,Teléfono,Recursos Humanos,TEC-08,3,25.0,No,4
+TK-11164,2025-10-21 06:23,Hardware,Media,Portal,Ventas,TEC-08,1,33.5,No,5
+TK-10942,2025-08-28 16:48,Red,Media,Chat,,TEC-01,0,13.9,Sí,
+TK-10110,2025-01-24 21:58,Software,Baja,Portal,Operaciones,TEC-04,3,39.1,Sí,3
+TK-10208,2025-02-18 14:15,Accesos,Baja,Chat,Ventas,TEC-07,1,26.2,Sí,4
+TK-10593,2025-06-01 04:22,Red,Baja,Portal,Logística,TEC-04,1,35.7,Sí,3
+TK-10952,2025-08-31 20:05,Red,Media,Teléfono,Ventas,TEC-02,0,12.0,Sí,5
+TK-10159,2025-02-07 08:33,Software,Alta,Teléfono,Operaciones,TEC-04,1,19.3,No,4
+TK-11283,2025-11-22 13:04,Hardware,Media,Chat,Recursos Humanos,TEC-02,3,34.4,No,
+TK-11213,2025-11-03 04:54,Accesos,Alta,Correo,Ventas,TEC-04,2,21.4,No,4
+TK-10889,16/08/2025 09:51,Accesos,Alta,Portal,Recursos Humanos,TEC-08,1,9.0,No,4
+TK-10215,2025-02-20 05:07,Hardware,Baja,Teléfono,Operaciones,TEC-02,0,38.5,Sí,4
+TK-11293,2025-11-23 22:17, Correo ,Baja,Correo,Ventas,TEC-02,0,31.4,Sí,4
+TK-11419,2025-12-25 01:01, Software ,media,Chat,Finanzas,TEC-04,0,20.7,Sí,4
+TK-11376,2025-12-13 05:47,Correo,Alta,Teléfono,Operaciones,TEC-05,0,27.9,No,4
+TK-11385,2025-12-15 07:45,Accesos,Crítica,Portal,Ventas,TEC-07,1,4.0,Sí,
+TK-10331,2025-03-23 23:35,Correo,Media,Portal,Recursos Humanos,TEC-06,0,9.7,Sí,
+TK-10764,2025-07-16 16:54,Accesos,Media,Correo,Finanzas,TEC-07,1,21.8,Sí,4
+TK-10956,2025-09-01 11:00,correo,Baja,Portal,Ventas,TEC-05,0,15.4,Sí,
+TK-11121,2025-10-11 04:40,Software,Media,Correo,Recursos Humanos,TEC-01,3,31.4,No,2
+TK-10429,2025-04-19 00:28,Accesos,Alta,Teléfono,Ventas,TEC-05,1,,Sí,4
+TK-10564,2025-05-24 18:37,Red,Media,Portal,Finanzas,TEC-03,0,16.0,Sí,5
+TK-10721,2025-07-06 03:47,Software,Media,Correo,Finanzas,TEC-08,1,23.8,Sí,4
+TK-10707,2025-07-04 10:55,SOFTWARE,Baja,Chat,Finanzas,TEC-06,2,39.0,si,2
+TK-11088,2025-10-02 17:19,Hardware,Media,Portal,Ventas,TEC-08,1,29.9,No,
+TK-11199,2025-10-28 20:14,Correo,Media,Portal,Operaciones,TEC-03,1,21.0,Sí,4
+TK-10703,2025-07-03 23:29,Hardware,Alta,Portal,Finanzas,TEC-03,0,19.8,No,
+TK-11249,13/11/2025 19:57,Software,Baja,Portal,Operaciones,TEC-01,0,17.6,Sí,4
+TK-10448,2025-04-25 06:59,Software,Baja,Portal,Operaciones,TEC-03,0,38.6,Sí,4
+TK-11060,2025-09-27 04:33,Accesos,Baja,Chat,Finanzas,TEC-04,0,18.9,Sí,4
+TK-10822,2025-08-01 13:40,Hardware,Baja,Portal,Operaciones,TEC-01,0,"30,9",Sí,
+TK-10814,2025-07-29 06:03,Software,Crítica,Portal,Ventas,TEC-03,0,6.6,No,4
+TK-10517,2025-05-14 16:19,Software,Baja,Portal,Logística,TEC-04,0,25.1,Sí,3
+TK-10273,2025-03-04 22:17,Hardware,MEDIA,Correo,Logística,TEC-03,0,20.9,si,4
+TK-10140,2025-01-31 21:21,Hardware,Media,Chat,Operaciones,TEC-01,0,18.0,Sí,4
+TK-10730,2025-07-08 03:12,Accesos,Media,Portal,Logística,TEC-02,2,24.3,No,2
+TK-10575,2025-05-28 13:47,Red,Media,Teléfono,Ventas,TEC-06,0,15.1,Sí,4
+TK-11434,2025-12-29 22:14,Software,Baja,Correo,Finanzas,TEC-05,0,22.7,Sí,3
+TK-10432,2025-04-19 14:06,Software,Alta,Portal,Finanzas,TEC-07,0,6.1,Sí,
+TK-10838,2025-08-04 06:09,Hardware,Baja,Teléfono,Finanzas,TEC-07,2,42.6,Sí,2
+TK-10647,2025-06-18 12:27,Software,Alta,Portal,Finanzas,TEC-07,0,13.9,NO,2
+TK-11111,2025-10-08 06:34,Hardware,Alta,Portal,Finanzas,TEC-08,2,32.1,No,
+TK-11023,2025-09-17 16:47,Hardware,Baja,Portal,Ventas,TEC-04,0,48.3,No,3
+TK-10800,2025-07-26 11:13,Red,Media,Teléfono,Logística,TEC-06,2,23.2,Sí,2
+TK-11367,2025-12-11 18:31,Software,Alta,Portal,Finanzas,TEC-08,0,24.1,No,4
+TK-10985,2025-09-08 17:06,Correo,Crítica,Chat,Operaciones,TEC-04,1,7.7,No,3
+TK-11162,2025-10-20 22:41,SOFTWARE,Baja,Portal,Finanzas,TEC-05,0,31.8,Sí,3
+TK-10850,2025-08-06 10:37,Software,Baja,Portal,Operaciones,TEC-06,1,30.9,Sí,2
+TK-11143,2025-10-16 12:24,Software,Media,Teléfono,Operaciones,TEC-07,0,21.4,Sí,
+TK-10563,2025-05-24 15:37,Software,Baja,Correo,Ventas,TEC-02,0,21.2,Sí,4
+TK-10129,2025-01-29 18:32,Software,Alta,Portal,Finanzas,TEC-02,0,16.0,No,4
+TK-10009,2025-01-02 10:41,SOFTWARE,Alta,Correo,Gerencia,TEC-01,2,,No,
+TK-10312,2025-03-18 05:11,Software,Baja,Correo,Recursos Humanos,TEC-01,0,20.4,Sí,3
+TK-11211,2025-11-02 14:19,Red,Media,Chat,Finanzas,TEC-08,1,25.3,No,4
+TK-10527,2025-05-16 16:31,Software,Crítica,Portal,Logística,TEC-02,2,10.3,No,4
+TK-11071,2025-09-29 10:39,Correo,Media,Portal,Finanzas,TEC-04,2,20.1,Sí,3
+TK-10671,2025-06-23 15:17,Hardware,Baja,Portal,Logística,TEC-07,1,,Sí,3
+TK-10207,2025-02-18 12:39,Red,Media,Teléfono,Ventas,TEC-04,2,32.0,No,2
+TK-10072,2025-01-17 10:23,Hardware,Media,Correo,Operaciones,TEC-05,1,38.1,No,2
+TK-11299,2025-11-26 03:05,Red,Baja,Teléfono,Ventas,TEC-07,1,29.2,Sí,4
+TK-10750,2025-07-12 20:10,Software,MEDIA,Portal,Logística,TEC-08,2,26.2,No,3
+TK-10204,2025-02-17 20:24,Red,media,Portal,Logística,TEC-04,1,27.3,No,
+TK-10055,2025-01-13 10:00,Software,Baja,Portal,Operaciones,TEC-02,1,38.5,Sí,4
+TK-11112,2025-10-08 11:11,Software,Baja,Portal,,TEC-04,0,,Sí,5
+TK-10489,2025-05-07 01:07,Software,Media,Teléfono,Recursos Humanos,TEC-07,0,26.8,No,
+TK-10541,2025-05-19 22:30,Software,Baja,Correo,Operaciones,TEC-06,0,28.9,Sí,3
+TK-10939,2025-08-27 21:13,Hardware,Alta,Portal,Recursos Humanos,TEC-01,0,12.2,No,5
+TK-10190,2025-02-12 14:18,Red,Alta,Portal,Recursos Humanos,TEC-02,0,5.8,Sí,
+TK-10109,2025-01-24 04:01,Hardware,Alta,Portal,Operaciones,TEC-02,0,31.1,No,5
+TK-10538,2025-05-19 01:28,Software,Baja,Portal,Recursos Humanos,TEC-05,0,30.2,Sí,3
+TK-10522,2025-05-15 13:31,Hardware,Media,Teléfono,Ventas,TEC-03,1,84.6,No,1
+TK-10601,03/06/2025 17:17,Hardware,Baja,Correo,Logística,TEC-07,0,30.6,Sí,2
+TK-10551,2025-05-22 23:35,Red,Baja,Teléfono,Recursos Humanos,TEC-01,1,26.9,Sí,
+TK-10023,2025-01-05 12:31, Accesos ,Baja,Portal,Recursos Humanos,TEC-02,0,15.1,Sí,5
+TK-10377,2025-04-06 14:14,Software,Media,Teléfono,Recursos Humanos,TEC-01,1,17.4,Sí,5
+TK-11105,2025-10-07 06:18,Software,Alta,Correo,Operaciones,TEC-04,0,4.6,Sí,5
+TK-10595,2025-06-01 08:40,Red,Media,Chat,Gerencia,TEC-06,2,25.0,No,3
+TK-11410,2025-12-22 16:03,Software,Alta,Teléfono,Recursos Humanos,TEC-06,0,11.4,No,
+TK-10206,2025-02-18 07:48,Hardware,Baja,Portal,Operaciones,TEC-02,1,32.3,Sí,3
+TK-10094,2025-01-21 22:04,Software,Baja,Correo,Finanzas,TEC-02,0,27.2,Sí,
+TK-10225,2025-02-22 12:31,Accesos,Media,Portal,Operaciones,TEC-01,2,19.1,Sí,3
+TK-11429,2025-12-28 05:39,Hardware,Media,Chat,Recursos Humanos,TEC-03,0,39.1,No,3
+TK-11068,2025-09-29 00:43,Software,Media,Correo,Logística,TEC-07,1,30.4,No,2
+TK-10857,2025-08-07 15:35,Software,Alta,Teléfono,,TEC-01,0,1.7,Sí,
+TK-11125,2025-10-12 10:28,Red,Media,Teléfono,Recursos Humanos,TEC-05,2,26.3,No,5
+TK-10441,2025-04-23 10:33,Hardware,Media,Chat,Operaciones,TEC-04,3,45.9,No,2
+TK-10589,2025-05-31 08:24,Hardware,Alta,Portal,Operaciones,TEC-04,1,15.9,No,4
+TK-11298,2025-11-26 00:32,Software,Baja,Chat,Recursos Humanos,TEC-05,0,17.2,Sí,0
+TK-10726,2025-07-07 07:27,Correo,Baja,Correo,Recursos Humanos,TEC-08,0,101.8,No,1
+TK-11327,03/12/2025 07:40,Accesos,Crítica,Portal,Ventas,TEC-01,2,7.2,No,5
+TK-10093,2025-01-21 18:58,Software,Baja,Portal,Finanzas,TEC-04,1,32.0,Sí,2
+TK-10976,2025-09-06 03:14,Accesos,Alta,Correo,Ventas,TEC-03,0,5.0,Sí,5
+TK-11351,2025-12-08 12:52,Hardware,Baja,Portal,Ventas,TEC-06,2,38.8,Sí,3
+TK-10271,04/03/2025 13:10,Red,Media,Correo,Operaciones,TEC-04,0,22.7,Sí,5
+TK-11247,2025-11-13 17:36,red,Media,Portal,Operaciones,TEC-05,5,45.8,No,
+TK-11252,2025-11-14 04:10,Red,Media,Correo,Operaciones,TEC-01,2,34.5,No,3
+TK-10076,2025-01-17 18:47,Software,Crítica,Chat,Ventas,TEC-03,0,1.5,si,5
+TK-10959,2025-09-02 12:06,Correo,Baja,Correo,Recursos Humanos,TEC-04,0,23.9,Sí,4
+TK-11143,2025-10-16 12:24,Software,Media,Teléfono,Operaciones,TEC-07,0,21.4,Sí,
+TK-10542,2025-05-20 07:59,Red,Media,Teléfono,Operaciones,TEC-06,0,25.5,No,
+TK-10561,24/05/2025 14:46,Red,Crítica,Correo,Gerencia,TEC-01,0,-6.9,No,
+TK-10782,2025-07-20 19:38,SOFTWARE,Media,Chat,Logística,TEC-02,1,41.9,No,3
+TK-11118,2025-10-10 07:39,Accesos,Baja,Portal,Ventas,TEC-06,0,19.0,Sí,4
+TK-10893,2025-08-17 03:45,Hardware,ALTA,Correo,Recursos Humanos,TEC-08,1,"22,8",No,4
+TK-10247,2025-02-27 07:31,Software,Alta,Teléfono,Ventas,TEC-04,1,19.7,No,
+TK-11152,2025-10-18 13:57,Software,Alta,Correo,Ventas,TEC-06,0,27.8,No,4
+TK-11044,2025-09-22 13:34,Red,Baja,Portal,Finanzas,TEC-05,3,43.9,Sí,
+TK-10470,2025-05-01 05:37,Accesos,Crítica,Teléfono,Recursos Humanos,TEC-06,0,2.5,Sí,4
+TK-10493,2025-05-08 18:42,Software,Alta,Portal,Operaciones,TEC-06,0,21.2,No,4
+TK-11370,2025-12-11 23:07, Hardware ,Crítica,Portal,Ventas,TEC-03,2,20.5,No,3
+TK-11135,2025-10-15 00:09,Correo,Media,Correo,Ventas,TEC-03,1,19.4,Sí,
+TK-10131,2025-01-30 14:30,Accesos,Media,Chat,Operaciones,TEC-03,0,14.2,Sí,4
+TK-11250,2025-11-13 21:41,Hardware,Baja,Teléfono,Logística,TEC-05,1,39.8,si,3
+TK-10025,2025-01-05 14:39,Accesos,Alta,Correo,Operaciones,TEC-08,1,22.2,No,4
+TK-10584,2025-05-30 01:29,Accesos,Baja,Correo,,TEC-05,0,22.4,Sí,
+TK-10392,2025-04-09 16:57,Hardware,Baja,Chat,Operaciones,TEC-01,1,37.2,Sí,0
+TK-10709,2025-07-05 02:54,Correo,Media,Correo,Finanzas,TEC-08,0,13.5,Sí,3
+TK-11408,2025-12-21 20:55,Software,Baja,Portal,Logística,TEC-07,3,38.9,Sí,3
+TK-11364,2025-12-11 12:03,Red,Media,Correo,Ventas,TEC-07,3,,No,
+TK-10781,2025-07-20 11:19,Correo,Media,Chat,Ventas,TEC-04,0,,Sí,4
+TK-10026,2025-01-05 16:50,Hardware,Media,Portal,,TEC-06,2,34.2,No,
+TK-10156,2025-02-05 07:33,Software,Baja,Portal,Ventas,TEC-06,0,19.9,Sí,5
+TK-11425,2025-12-27 08:42,Correo,Crítica,Chat,Gerencia,TEC-07,0,2.7,Sí,4
+TK-11383,2025-12-14 21:15,Hardware,Media,Chat,Ventas,TEC-07,1,26.1,No,3
+TK-10543,2025-05-20 11:33,Hardware,Baja,Correo,Recursos Humanos,TEC-05,0,33.8,Sí,5
+TK-10917,2025-08-23 18:18,Accesos,Crítica,Portal,Finanzas,TEC-01,0,4.7,No,5
+TK-10717,2025-07-05 17:17,Correo,Alta,Portal,Operaciones,TEC-07,0,1.3,Sí,
+TK-11149,2025-10-18 06:51,Software,Alta,Portal,Finanzas,TEC-03,0,"13,3",No,
+TK-11117,2025-10-10 02:01,SOFTWARE,Media,Chat,Operaciones,TEC-08,0,21.7,Sí,4
+TK-10668,2025-06-23 07:48,Software,Alta,Chat,Recursos Humanos,TEC-02,0,8.5,No,0
+TK-10446,2025-04-25 01:22,Accesos,Alta,Correo,Ventas,TEC-06,0,66.6,No,
+TK-10676,2025-06-24 23:50,Red,Baja,Correo,Recursos Humanos,TEC-02,0,39.8,Sí,3
+TK-11342,2025-12-07 00:34, Red ,Baja,Chat,Operaciones,TEC-01,1,28.0,Sí,2
+TK-10950,2025-08-31 11:16,Hardware,Baja,Portal,Operaciones,TEC-05,4,72.0,No,1
+TK-10180,2025-02-10 15:16,Hardware,Baja,Correo,Ventas,TEC-02,1,56.5,No,2
+TK-10895,2025-08-17 13:12,Correo,Baja,Portal,Ventas,TEC-07,1,,Sí,4
+TK-11344,2025-12-07 15:05,Accesos,Alta,Teléfono,Finanzas,TEC-01,1,3.4,Sí,5
+TK-11326,2025-12-03 03:17,Hardware,Alta,Correo,Operaciones,TEC-03,0,11.9,No,
+TK-10011,2025-01-03 01:25,Hardware,Media,Teléfono,Ventas,TEC-03,1,26.6,No,4
+TK-10355,2025-03-30 09:29,Software,Alta,Portal,Ventas,TEC-01,2,16.4,No,4
+TK-10068,2025-01-16 15:58,Accesos,Baja,Correo,Finanzas,TEC-05,0,19.3,Sí,5
+TK-10146,2025-02-02 04:17,hardware,Media,Portal,Ventas,TEC-08,1,88.7,No,1
+TK-11081,2025-10-01 08:37,correo,Alta,Teléfono,Ventas,TEC-02,1,11.2,No,3
+TK-10416,2025-04-16 01:23,Accesos,Alta,Portal,Recursos Humanos,TEC-02,1,10.6,No,4
+TK-10902,2025-08-19 16:30,Correo,Baja,Correo,Finanzas,TEC-04,0,28.0,Sí,
+TK-10507,2025-05-12 02:33,Red,Media,Correo,Operaciones,TEC-04,1,48.7,No,
+TK-10301,2025-03-15 09:40,Red,Media,Chat,Recursos Humanos,TEC-05,0,41.2,No,2
+TK-10524,2025-05-15 15:49,Accesos,Crítica,Chat,Ventas,TEC-04,2,20.5,No,3
+TK-10869,2025-08-11 16:00,Accesos,Alta,Correo,Operaciones,TEC-05,1,9.4,No,
+TK-11124,2025-10-12 04:21,Correo,Baja,Portal,Operaciones,TEC-05,2,28.6,Sí,3
+TK-10438,2025-04-22 06:41,Red,Media,Portal,Gerencia,TEC-01,2,24.8,No,4
+TK-11159,2025-10-20 03:06,Software,Media,Chat,Operaciones,TEC-04,2,22.5,Sí,4
+TK-10801,2025-07-26 19:16,Software,Baja,Portal,Logística,TEC-06,0,29.3,Sí,3
+TK-10832,2025-08-03 07:46,Hardware,Media,Correo,Logística,TEC-06,0,21.2,Sí,3
+TK-10139,2025-01-31 15:10,Hardware,Media,Teléfono,Finanzas,TEC-01,2,33.9,No,3
+TK-11222,2025-11-05 18:19,Accesos,Baja,Portal,Operaciones,TEC-02,0,19.4,Sí,4
+TK-10196,2025-02-15 14:49,Red,Baja,Chat,Gerencia,TEC-04,0,-25.3,Sí,4
+TK-11312,2025-11-30 04:24,Red,Media,Portal,Logística,TEC-05,0,17.5,Sí,3
+TK-10450,2025-04-25 16:16,Software,Baja,Portal,Operaciones,TEC-06,0,21.8,Sí,4
+TK-10931,2025-08-26 04:19,Software,Baja,Portal,Operaciones,TEC-02,0,,Sí,
+TK-11191,2025-10-26 06:04,hardware,Media,Teléfono,Recursos Humanos,TEC-05,1,23.7,Sí,4
+TK-10720,2025-07-06 03:41,Red,Baja,Portal,Gerencia,TEC-01,0,30.9,Sí,3
+TK-11242,2025-11-12 11:35,Software,Media,Chat,Logística,TEC-03,0,7.3,Sí,
+TK-10175,2025-02-09 17:14,Software,Baja,Correo,Logística,TEC-08,1,35.8,Sí,9
+TK-10223,2025-02-21 22:23,Hardware,Baja,Correo,Logística,TEC-07,0,40.1,Sí,4
+TK-10255,2025-03-01 10:53,Software,Baja,Portal,Logística,TEC-03,2,106.1,No,1
+TK-11366,2025-12-11 16:56,Hardware,Alta,Teléfono,Finanzas,TEC-04,1,20.7,No,4
+TK-10386,2025-04-08 16:34,Red,Baja,Teléfono,Logística,TEC-06,0,19.0,Sí,5
+TK-11412,2025-12-23 16:20,Correo,Media,Portal,Ventas,TEC-06,1,28.1,No,4
+TK-10793,2025-07-24 02:07,Red,Baja,Portal,Finanzas,TEC-01,0,21.0,Sí,3
+TK-11345,2025-12-07 18:57,Accesos,Media,Correo,Ventas,TEC-05,1,28.0,No,4
+TK-10035,2025-01-07 03:04,Accesos,Alta,Chat,Operaciones,TEC-06,2,15.9,No,
+TK-11228,2025-11-08 17:02,Red,Alta,Portal,Operaciones,TEC-03,1,16.6,No,5
+TK-10266,2025-03-02 16:40, Hardware ,Baja,Portal,Logística,TEC-05,0,34.0,Sí,4
+TK-10558,24/05/2025 04:53,Accesos,Crítica,Teléfono,Finanzas,TEC-02,1,4.6,No,5
+TK-10090,2025-01-20 19:10,Software,Baja,Portal,Finanzas,TEC-05,0,22.7,Sí,5
+TK-10779,2025-07-20 06:22,Red,Alta,Correo,Logística,TEC-01,3,38.9,No,2
+TK-11148,18/10/2025 06:07,Software,Baja,Portal,Ventas,TEC-04,0,25.5,Sí,4
+TK-10712,2025-07-05 06:00,Correo,Baja,Portal,Operaciones,TEC-04,0,29.2,Sí,3
+TK-10001,2025-01-01 07:03,Red,Baja,Portal,Gerencia,TEC-02,1,28.2,Sí,5
+TK-11052,2025-09-25 03:45,Correo,Baja,Portal,Gerencia,TEC-01,0,16.9,si,5
+TK-10614,2025-06-07 14:12,Correo,Media,Chat,Finanzas,TEC-04,0,14.4,Sí,4
+TK-10006,02/01/2025 03:39,Accesos,Baja,Correo,Ventas,TEC-04,0,35.5,Sí,
+TK-10343,2025-03-28 11:17,Hardware,Baja,Correo,Logística,TEC-02,2,45.8,Sí,3
+TK-10881,2025-08-14 16:12,Correo,ALTA,Chat,Operaciones,TEC-01,1,3.3,Sí,5
+TK-10102,2025-01-22 22:22,Accesos,Baja,Teléfono,Operaciones,TEC-03,1,19.8,Sí,5
+TK-10731,08/07/2025 06:07,Correo,Baja,Correo,Operaciones,TEC-08,1,29.7,Sí,3
+TK-10040,2025-01-08 17:50,Accesos,Baja,Portal,Ventas,TEC-01,0,16.7,Sí,4
+TK-10529,2025-05-17 01:18,Software,Alta,Teléfono,Ventas,TEC-01,0,5.8,Sí,3
+TK-10666,2025-06-22 21:36,Hardware,Media,Portal,Ventas,TEC-04,1,27.2,No,3
+TK-10453,2025-04-27 03:14,Accesos,Crítica,Chat,Logística,TEC-03,0,0.3,Sí,5
+TK-10661,2025-06-21 15:47,Software,Baja,Correo,Finanzas,TEC-02,0,27.3,Sí,4
+TK-10125,2025-01-28 11:03,Red,Baja,Portal,Logística,TEC-02,0,"21,3",Sí,
+TK-10178,2025-02-10 09:28,Software,Baja,Teléfono,Logística,TEC-06,1,25.8,Sí,4
+TK-10137,2025-01-31 09:00,Software,Media,Portal,Finanzas,TEC-03,0,15.2,Sí,5
+TK-10337,2025-03-26 02:14,Red,Media,Portal,Operaciones,TEC-05,1,-24.6,No,
+TK-10119,2025-01-26 19:29,Red,Media,Correo,Logística,TEC-06,2,28.4,No,3
+TK-11073,2025-09-29 14:40,Hardware,Baja,Portal,Operaciones,TEC-05,1,44.6,si,2
+TK-11393,2025-12-17 17:19,Accesos,Baja,Correo,Logística,TEC-04,0,17.7,Sí,5
+TK-10506,2025-05-11 23:01,Hardware,Media,Chat,Ventas,TEC-07,0,23.7,Sí,4
+TK-11253,2025-11-14 04:20,Red,Media,Portal,Ventas,TEC-04,0,16.9,Sí,5
+TK-10618,2025-06-08 15:19,Hardware,Alta,Chat,Operaciones,TEC-08,1,39.7,No,2
+TK-10966,2025-09-04 12:22,Accesos,Alta,Correo,Operaciones,TEC-05,0,1.8,Sí,
+TK-10860,2025-08-08 07:10,Red,Baja,Portal,Operaciones,TEC-05,1,55.1,No,2
+TK-10193,2025-02-13 07:06,Software,MEDIA,Portal,Operaciones,TEC-03,1,20.6,Sí,5
+TK-11392,2025-12-17 11:27,Red,Media,Correo,Ventas,TEC-02,0,28.2,No,3
+TK-11019,2025-09-16 00:26,Hardware,Media,Portal,Logística,TEC-07,1,27.4,No,
+TK-10862,2025-08-09 10:36,Red,Media,Teléfono,Recursos Humanos,TEC-04,2,27.3,No,3
+TK-10762,2025-07-16 08:01,Red,Media,Correo,Operaciones,TEC-01,0,24.5,No,5
+TK-10136,2025-01-31 06:23,Correo,MEDIA,Chat,Finanzas,TEC-04,1,18.5,Sí,3
+TK-10245,2025-02-26 07:00,Red,Crítica,Portal,Recursos Humanos,TEC-08,0,2.8,Sí,
+TK-10461,2025-04-28 16:25,ACCESOS,Media,Portal,Ventas,TEC-03,2,22.1,Sí,3
+TK-10042,2025-01-09 01:55,Hardware,Media,Portal,Finanzas,TEC-05,1,29.4,No,3
+TK-10724,2025-07-06 12:03,Software,Baja,Chat,Operaciones,TEC-04,1,27.5,si,5
+TK-10892,2025-08-17 01:39,Red,Crítica,Chat,Ventas,TEC-01,0,13.6,No,5
+TK-10637,2025-06-15 00:12,Software,Alta,Correo,Operaciones,TEC-01,0,6.3,Sí,5
+TK-10359,2025-03-31 07:14,Red,Alta,Correo,Operaciones,TEC-07,3,28.3,No,2
+TK-10867,2025-08-11 09:45,Accesos,Alta,Portal,Finanzas,TEC-06,0,10.4,No,5
+TK-10298,2025-03-14 14:43,Software,Alta,Portal,Ventas,TEC-07,1,30.1,No,4
+TK-11381,2025-12-13 16:05,Accesos,Alta,Portal,Operaciones,TEC-04,1,16.3,No,4
+TK-11285,22/11/2025 15:54,Software,Baja,Portal,Finanzas,TEC-05,3,36.7,Sí,2
+TK-10518,2025-05-14 23:40,Accesos,media,Teléfono,Logística,TEC-07,0,7.7,Sí,4
+TK-10559,2025-05-24 05:55,Correo,Alta,Teléfono,Recursos Humanos,TEC-07,1,,Sí,3
+TK-11128,2025-10-13 05:45,Correo,Baja,Portal,Logística,TEC-02,0,30.2,Sí,2
+TK-10619,2025-06-08 15:28,Hardware,Alta,Teléfono,Logística,TEC-02,0,18.3,No,5
+TK-10466,2025-04-30 00:19,Software,Baja,Correo,Ventas,TEC-04,0,37.0,Sí,4
+TK-10411,2025-04-14 22:14,Correo,Media,Portal,Ventas,TEC-04,0,13.1,Sí,5
+TK-10981,2025-09-07 14:59,Hardware,Media,Portal,Finanzas,TEC-07,0,,No,5
+TK-11245,2025-11-13 04:07,Hardware,Media,Correo,Recursos Humanos,TEC-05,1,33.3,No,2
+TK-11053,2025-09-25 05:26,HARDWARE,Media,Correo,Logística,TEC-02,2,50.8,No,4
+TK-10039,2025-01-08 06:28,Software,Baja,Teléfono,Operaciones,TEC-02,1,22.6,Sí,3
+TK-10679,2025-06-25 23:34,HARDWARE,Crítica,Correo,Logística,TEC-08,1,17.4,No,3
+TK-10080,2025-01-18 16:13,Software,Alta,Teléfono,Recursos Humanos,TEC-05,1,21.0,No,
+TK-11304,2025-11-27 22:33,Software,Baja,Portal,Finanzas,TEC-04,1,32.9,Sí,
+TK-10687,2025-06-28 13:23,Software,Media,Portal,Logística,TEC-08,0,11.2,Sí,4
+TK-10492,2025-05-08 06:16,Correo,Alta,Teléfono,,TEC-07,1,15.1,No,
+TK-10528,2025-05-16 16:37,Hardware,Alta,Teléfono,Ventas,TEC-07,0,33.5,No,4
+TK-10900,2025-08-18 21:41,software,Alta,Chat,Logística,TEC-01,1,10.5,No,
+TK-10760,2025-07-15 16:50,Software,Media,Teléfono,Ventas,TEC-08,0,10.1,Sí,4
+TK-11276,2025-11-20 11:12,Hardware,Media,Portal,Logística,TEC-03,2,30.1,No,4
+TK-11210,2025-11-02 06:28,Accesos,Alta,Portal,Finanzas,TEC-03,1,4.5,si,5
+TK-11069,2025-09-29 05:59,Hardware,Baja,Chat,Recursos Humanos,TEC-02,0,25.7,si,4
+TK-11013,2025-09-14 23:08,Hardware,CRITICA,Correo,Recursos Humanos,TEC-06,0,9.3,No,4
+TK-10694,2025-06-30 05:16,software,Alta,Portal,Operaciones,TEC-02,1,14.3,No,5
+TK-10891,2025-08-16 19:05,Red,Crítica,Portal,Ventas,TEC-01,0,5.7,No,3
+TK-10421,2025-04-17 09:05,Software,Media,Portal,Operaciones,TEC-05,0,15.4,Sí,3
+TK-11104,2025-10-06 22:00,Accesos,Baja,Portal,Ventas,TEC-04,1,21.3,Sí,4
+TK-11134,2025-10-14 23:35,Hardware,Alta,Chat,Logística,TEC-01,0,15.8,No,3
+TK-11335,2025-12-04 18:46,Hardware,Media,Correo,Operaciones,TEC-03,0,33.3,No,4
+TK-11440,2025-12-30 11:01,Software,Alta,Teléfono,Ventas,TEC-07,0,4.7,Sí,4
+TK-10591,2025-05-31 17:04,Accesos,Media,Portal,Recursos Humanos,TEC-02,0,12.2,Sí,4
+TK-11254,2025-11-15 03:56,Correo,Media,Portal,Operaciones,TEC-04,1,13.3,Sí,4
+TK-10458,2025-04-27 07:36,Software,Media,Portal,Gerencia,TEC-08,1,31.9,No,
+TK-10767,2025-07-17 12:22, Hardware ,Baja,Chat,Logística,TEC-03,0,94.6,No,2
+TK-10112,2025-01-25 03:19,Red,Baja,Chat,Operaciones,TEC-06,0,28.5,Sí,5
+TK-11259,2025-11-15 21:18,software,Media,Portal,Recursos Humanos,TEC-06,1,16.1,Sí,4
+TK-10905,2025-08-19 23:30,Hardware,Alta,Chat,Ventas,TEC-03,0,14.8,No,4
+TK-11113,2025-10-08 11:56,Accesos,Baja,Correo,Operaciones,TEC-08,0,20.6,Sí,5
+TK-10871,2025-08-11 21:21,Hardware,Media,Portal,Ventas,TEC-03,0,23.3,Sí,5
+TK-10945,2025-08-29 12:49,Software,Crítica,Correo,Operaciones,TEC-05,1,9.3,No,4
+TK-10980,2025-09-07 14:53,hardware,Media,Chat,Gerencia,TEC-03,0,17.0,si,4
+TK-10103,2025-01-22 23:41,Accesos,Baja,Chat,Logística,TEC-04,0,20.9,Sí,4
+TK-10455,2025-04-27 06:00,Software,Baja,Portal,Operaciones,TEC-08,0,"22,7",Sí,4
+TK-11226,2025-11-07 15:10, Software ,Baja,Portal,Logística,TEC-04,4,"42,7",Sí,
+TK-11035,2025-09-20 06:30,ACCESOS,Baja,Portal,Ventas,TEC-04,0,22.2,Sí,4
+TK-10664,2025-06-22 00:45,Red,Media,Portal,Ventas,TEC-01,1,19.7,Sí,4
+TK-11135,2025-10-15 00:09,Correo,Media,Correo,Ventas,TEC-03,1,19.4,Sí,
+TK-10854,2025-08-06 22:34,Accesos,Media,Portal,Operaciones,TEC-06,1,20.5,si,3
+TK-10934,2025-08-26 18:41,Red,Media,Portal,Recursos Humanos,TEC-08,0,28.5,NO,4
+TK-11140,2025-10-15 13:49,red,Media,Portal,Logística,TEC-07,0,14.2,Sí,5
+TK-10757,14/07/2025 07:42,Software,Crítica,Chat,Ventas,TEC-07,0,0.3,Sí,5
+TK-11155,2025-10-18 23:48,Accesos,Alta,Portal,Logística,TEC-05,2,11.4,No,
+TK-10988,2025-09-09 11:09,Software,alta,Portal,Ventas,TEC-01,2,15.8,No,4
+TK-11426,27/12/2025 16:20,Software,Media,Chat,Finanzas,TEC-03,2,20.9,Sí,3
+TK-10920,2025-08-24 03:42,Correo,Baja,Portal,Operaciones,TEC-04,1,24.4,Sí,4
+TK-10115,2025-01-25 13:48,Software,Alta,Portal,Logística,TEC-05,1,13.8,No,4
+TK-10069,2025-01-16 17:44,Hardware,Media,Teléfono,Operaciones,TEC-02,0,15.1,Sí,4
+TK-10904,2025-08-19 19:31,Software,Baja,Correo,Operaciones,TEC-04,1,33.9,Sí,4
+TK-10547,2025-05-21 15:08,Hardware,Alta,Correo,Ventas,TEC-08,1,43.2,No,2
+TK-10718,2025-07-05 17:24,Software,Media,Correo,Operaciones,TEC-05,2,"24,9",No,4
+TK-11405,2025-12-20 15:52,Software,Media,Portal,Logística,TEC-04,1,19.5,Sí,1
+TK-10727,2025-07-07 11:31,Red,Baja,Portal,Finanzas,TEC-01,0,28.2,Sí,4
+TK-10906,2025-08-20 01:13,Hardware,Baja,Correo,Finanzas,TEC-04,0,31.2,Sí,4
+TK-10650,2025-06-19 10:49,Accesos,Alta,Correo,Finanzas,TEC-02,0,4.2,Sí,
+TK-10272,2025-03-04 19:16,Accesos,Media,Portal,Recursos Humanos,TEC-03,1,12.4,Sí,4
+TK-10951,2025-08-31 15:26,Red,media,Chat,Logística,TEC-04,0,15.7,Sí,4
+TK-10787,2025-07-23 09:02,Correo,Media,Chat,Recursos Humanos,TEC-08,0,30.1,No,4
+TK-10253,2025-02-28 10:03,Accesos,Alta,Teléfono,Recursos Humanos,TEC-07,0,"0,3",Sí,5
+TK-10977,2025-09-06 21:30,Red,Media,Portal,Operaciones,TEC-04,2,29.5,No,3
+TK-10785,2025-07-22 19:27,Correo,Crítica,Portal,Logística,TEC-01,0,0.3,Sí,4
+TK-11194,2025-10-26 20:29,Software,Media,Portal,Gerencia,TEC-05,0,18.2,Sí,
+TK-10135,2025-01-31 04:27,Accesos,Crítica,Teléfono,Logística,TEC-06,0,0.3,Sí,5
+TK-11009,2025-09-13 19:11,Red,Media,Teléfono,Recursos Humanos,TEC-03,0,98.5,No,1
+TK-11130,2025-10-14 09:52,Red,Media,Portal,Finanzas,TEC-05,1,23.8,Sí,4
+TK-11361,2025-12-10 00:04,Red,Media,Correo,Ventas,TEC-06,0,21.6,Sí,5
+TK-11005,2025-09-13 00:04,SOFTWARE,baja,Portal,Recursos Humanos,TEC-07,2,29.6,Sí,3
+TK-10659,2025-06-21 11:49,Correo,Media,Correo,Ventas,TEC-04,1,32.8,NO,4
+TK-10128,2025-01-28 20:41,Software,Alta,Portal,Ventas,TEC-06,0,,No,4
+TK-11225,2025-11-06 14:41,red,Media,Portal,Logística,TEC-01,1,20.3,Sí,5
+TK-11363,2025-12-10 09:18,Software,Media,Correo,Logística,TEC-03,0,19.5,Sí,
+TK-11400,2025-12-19 20:54,Hardware,Media,Correo,Finanzas,TEC-03,2,36.8,No,4
+TK-10238,2025-02-24 15:43,Hardware,Alta,Correo,Ventas,TEC-03,1,21.8,No,
+TK-11354,2025-12-08 16:01,Accesos,Crítica,Teléfono,Gerencia,TEC-07,0,9.1,No,4
+TK-11093,2025-10-04 04:31,Hardware,Media,Teléfono,Operaciones,TEC-08,1,44.0,No,5
+TK-10460,2025-04-28 15:05,Software,Baja,Chat,Ventas,TEC-03,2,"29,7",Sí,5
+TK-11132,2025-10-14 17:02,Accesos,Media,Correo,Recursos Humanos,TEC-07,1,"26,1",NO,4
+TK-10056,2025-01-14 00:01,SOFTWARE,Baja,Correo,Operaciones,TEC-01,2,35.4,Sí,2
+TK-10770,2025-07-17 18:22,Software,Media,Portal,Finanzas,TEC-02,0,11.0,Sí,4
+TK-10075,2025-01-17 15:21,Accesos,Media,Portal,Operaciones,TEC-06,2,22.1,Sí,5
+TK-11200,2025-10-29 02:47,SOFTWARE,Media,Correo,Operaciones,TEC-02,0,21.5,Sí,5
+TK-10106,2025-01-23 09:52,Accesos,Baja,Portal,Logística,TEC-06,4,40.4,Sí,2
+TK-10164,2025-02-07 22:18,Red,Media,Portal,Logística,TEC-01,0,36.5,No,3
+TK-11101,2025-10-06 06:44,Hardware,Crítica,Teléfono,Operaciones,TEC-04,2,17.7,No,3
+TK-11291,2025-11-23 18:39,Red,Media,Teléfono,Finanzas,TEC-06,0,24.5,No,2
+TK-10944,2025-08-29 08:49,Hardware,Baja,Teléfono,Ventas,TEC-08,2,37.3,Sí,1
+TK-11064,2025-09-27 21:13,ACCESOS,Alta,Correo,Operaciones,TEC-05,1,8.0,Sí,
+TK-10640,2025-06-15 23:50,Red,Baja,Correo,Ventas,TEC-08,1,49.6,No,
+TK-11270,2025-11-18 11:36,Software,Media,Portal,Operaciones,TEC-07,1,30.2,No,4
+TK-11174,2025-10-23 07:40,Hardware,Alta,Teléfono,Ventas,TEC-05,0,11.0,No,5
+TK-10519,2025-05-15 01:15,Red,baja,Portal,Finanzas,TEC-05,1,69.8,No,2
+TK-11251,2025-11-14 02:57,Hardware,Alta,Teléfono,Finanzas,TEC-01,0,8.6,No,3
+TK-10592,2025-05-31 17:50,Red,Baja,Portal,Operaciones,TEC-07,2,51.5,No,2
+TK-11224,2025-11-06 06:00,Accesos,Baja,Correo,Ventas,TEC-03,0,-44.0,Sí,4
+TK-10771,2025-07-18 03:28,Hardware,Baja,Teléfono,Logística,TEC-07,1,38.8,Sí,3
+TK-10413,2025-04-15 11:07,software,Baja,Correo,Recursos Humanos,TEC-05,0,20.8,Sí,4
+TK-11418,2025-12-24 23:21,Red,Baja,Correo,Ventas,TEC-02,1,40.3,Sí,4
+TK-10556,2025-05-24 00:03,Red,MEDIA,Correo,Operaciones,TEC-04,2,28.7,No,3
+TK-10544,2025-05-20 15:07, Software ,Alta,Teléfono,Operaciones,TEC-04,2,25.9,No,
+TK-10922,2025-08-24 19:02,Red,Baja,Correo,Operaciones,TEC-08,0,29.5,Sí,3
+TK-10537,2025-05-19 00:39,Accesos,Alta,Portal,Ventas,TEC-04,1,18.5,No,4
+TK-11258,2025-11-15 20:56,Hardware,Media,Portal,Ventas,TEC-06,1,47.0,No,2
+TK-10899,2025-08-18 14:19,Correo,Alta,Portal,Recursos Humanos,TEC-03,0,0.9,Sí,3
+TK-11030,2025-09-19 09:41,Hardware,Baja,Correo,Ventas,TEC-01,0,91.0,No,2
+TK-11180,2025-10-24 06:54,Hardware,Alta,Correo,Ventas,TEC-02,0,23.5,No,4
+TK-10625,2025-06-09 14:54,Hardware,Media,Teléfono,Ventas,TEC-07,1,32.0,No,4
+TK-10407,2025-04-13 14:14,Accesos,Baja,Portal,Ventas,TEC-08,1,60.8,No,2
+TK-11297,2025-11-25 15:30,Correo,Media,Teléfono,Finanzas,TEC-02,0,5.9,Sí,4
+TK-10645,2025-06-17 16:17,Hardware,Alta,Chat,Finanzas,TEC-02,1,28.0,No,3
+TK-10864,2025-08-10 01:50,Red,Media,Correo,Recursos Humanos,TEC-07,0,21.6,Sí,4
+TK-11216,2025-11-03 18:41,Red,Baja,Teléfono,Ventas,TEC-04,0,24.7,Sí,3
+TK-10447,2025-04-25 06:32,Accesos,Baja,Correo,Operaciones,TEC-04,2,35.5,Sí,3
+TK-10665,2025-06-22 16:22,Accesos,Baja,Portal,Ventas,TEC-08,3,45.0,Sí,1
+TK-11038,2025-09-21 06:21,Hardware,Media,Correo,Finanzas,TEC-06,2,39.2,No,5
+TK-11014,2025-09-14 23:38,Correo,Media,Correo,Operaciones,TEC-04,2,43.3,No,2
+TK-10772,2025-07-19 04:03,Red,media,Chat,Recursos Humanos,TEC-08,1,"21,3",Sí,4
+TK-10480,2025-05-04 12:26,Software,Alta,Chat,Operaciones,TEC-03,1,10.6,No,5
+TK-11095,2025-10-04 17:35, Accesos ,Alta,Teléfono,Finanzas,TEC-02,0,1.7,Sí,5
+TK-10580,2025-05-29 17:30,Hardware,Media,Portal,Recursos Humanos,TEC-07,1,43.8,No,4
+TK-11356,2025-12-08 18:13,Hardware,Alta,Teléfono,Ventas,TEC-04,1,14.0,No,9
+TK-10262,2025-03-02 04:54,Red,Alta,Portal,Logística,TEC-04,2,40.1,No,2
+TK-10295,2025-03-13 07:40,Software,Alta,Portal,Ventas,TEC-06,3,25.1,No,3
+TK-10722,2025-07-06 09:58,Hardware,Alta,Correo,Operaciones,TEC-07,0,13.4,No,3
+TK-10903,2025-08-19 16:42,Correo,Media,Teléfono,Recursos Humanos,TEC-06,0,10.2,Sí,
+TK-11188,2025-10-25 19:22,Correo,Media,Correo,Recursos Humanos,TEC-04,1,29.2,No,4
+TK-11029,2025-09-19 09:11,Correo,Crítica,Teléfono,Gerencia,TEC-05,2,9.5,No,5
+TK-10957,2025-09-01 12:43,Correo,Media,Portal,Operaciones,TEC-04,0,13.5,Sí,3
+TK-11302,2025-11-27 15:33,Software,Baja,Correo,Operaciones,TEC-04,0,20.4,Sí,3
+TK-10160,2025-02-07 12:50,Hardware,Baja,Teléfono,Ventas,TEC-04,0,35.5,Sí,4
+TK-11365,2025-12-11 16:45,Correo,Baja,Correo,Logística,TEC-03,0,25.1,Sí,3
+TK-10651,2025-06-19 13:19,Hardware,Baja,Portal,Recursos Humanos,TEC-08,1,,Sí,1
+TK-10610,2025-06-06 23:06,Software,Media,Chat,Logística,TEC-04,0,14.2,Sí,
+TK-11241,2025-11-12 10:27,Software,Alta,Teléfono,Ventas,TEC-06,0,5.8,Sí,5
+TK-10334,2025-03-25 03:34,Accesos,Media,Portal,Gerencia,TEC-05,0,"28,4",No,3
+TK-11007,2025-09-13 07:32,Accesos,Baja,Correo,Ventas,TEC-07,1,38.2,Sí,4
+TK-10280,07/03/2025 20:13,Red,Alta,Teléfono,Ventas,TEC-06,1,11.5,No,4
+TK-11351,2025-12-08 12:52,Hardware,Baja,Portal,Ventas,TEC-06,2,38.8,Sí,3
+TK-10699,2025-07-02 02:15,Hardware,Media,Chat,Ventas,TEC-05,1,23.6,Sí,
+TK-10390,2025-04-09 13:26,Red,Media,Chat,Finanzas,TEC-05,1,19.8,Sí,4
+TK-10869,2025-08-11 16:00,Accesos,Alta,Correo,Operaciones,TEC-05,1,9.4,No,
+TK-10630,2025-06-10 22:27,Accesos,Media,Portal,Ventas,TEC-01,0,,Sí,4
+TK-10534,2025-05-17 15:41,Accesos,Media,Portal,Operaciones,TEC-08,0,17.8,Sí,5
+TK-11271,2025-11-19 07:49,Red,Media,Portal,Recursos Humanos,TEC-08,0,16.8,Sí,2
+TK-10737,09/07/2025 01:35,Correo,Baja,Portal,Recursos Humanos,TEC-07,0,24.2,Sí,5
+TK-10015,04/01/2025 06:58,Hardware,Media,Chat,Operaciones,TEC-01,0,16.0,Sí,2
+TK-10683,2025-06-27 12:31,Hardware,Media,Portal,Logística,TEC-04,1,28.5,No,2
+TK-10987,2025-09-09 08:47,Hardware,Alta,Chat,Recursos Humanos,TEC-06,1,,No,3
+TK-10393,2025-04-09 20:13,Software,Baja,Portal,Operaciones,TEC-07,0,53.9,No,2
+TK-10423,2025-04-17 17:40,Correo,Media,Portal,Logística,TEC-06,1,16.9,Sí,3
+TK-11279,2025-11-21 02:45,Accesos,Media,Correo,Recursos Humanos,TEC-07,3,71.1,No,1
+TK-10463,29/04/2025 17:42,Software,Baja,Portal,Ventas,TEC-05,0,21.7,Sí,5
+TK-11273,2025-11-19 16:41,HARDWARE,Media,Portal,Operaciones,TEC-08,0,"22,5",Sí,3
+TK-10983,2025-09-08 05:59,Accesos,Baja,Portal,Operaciones,TEC-07,2,,Sí,3
+TK-11232,2025-11-10 12:32,Hardware,Media,Teléfono,Logística,TEC-05,0,"23,5",Sí,2
+TK-10802,2025-07-26 19:36,Hardware,Baja,Correo,Finanzas,TEC-05,1,34.6,Sí,2
+TK-11321,2025-12-02 11:40,Software,Baja,Portal,Operaciones,TEC-06,3,36.0,Sí,
+TK-11078,2025-09-30 21:44,Software,Media,Portal,Logística,TEC-08,0,15.5,Sí,5
+TK-11193,2025-10-26 13:39,Software,Crítica,Portal,Finanzas,TEC-07,1,21.0,No,4
+TK-10909,2025-08-20 16:33,Hardware,Crítica,Portal,Logística,TEC-01,1,17.2,No,5
+TK-10620,2025-06-08 19:50,Accesos,Baja,Portal,Ventas,TEC-02,0,20.9,Sí,3
+TK-11168,22/10/2025 12:32,Software,Media,Chat,Operaciones,TEC-03,0,32.4,No,4
+TK-11209,2025-11-01 22:41,Accesos,Media,Portal,Operaciones,TEC-01,2,25.4,No,5
+TK-10237,2025-02-24 15:28,Hardware,Media,Teléfono,Finanzas,TEC-01,0,16.5,Sí,
+TK-10858,2025-08-07 16:57,Hardware,Alta,Correo,Operaciones,TEC-08,1,26.4,No,4
+TK-10874,12/08/2025 12:19,Accesos,Alta,Portal,Ventas,TEC-06,0,19.9,No,5
+TK-10467,2025-04-30 04:14,Accesos,Media,Portal,Operaciones,TEC-04,0,13.2,Sí,4
+TK-11218,2025-11-05 08:09,Software,Media,Portal,Logística,TEC-05,2,28.0,No,3
+TK-10754,2025-07-13 13:50,Accesos,media,Chat,Logística,TEC-04,0,11.5,Sí,4
+TK-11138,2025-10-15 07:25,Red,Media,Teléfono,Finanzas,TEC-03,2,26.4,No,4
+TK-10883,2025-08-15 05:48,Hardware,Alta,Teléfono,Operaciones,TEC-02,2,26.5,No,4
+TK-10292,2025-03-11 22:54,Hardware,MEDIA,Portal,Finanzas,TEC-07,1,32.7,No,
+TK-10234,2025-02-23 22:53,Red,Media,Teléfono,Ventas,TEC-01,0,13.8,Sí,4
+TK-10742,2025-07-10 15:07,Software,Media,Teléfono,Ventas,TEC-07,0,14.7,Sí,3
+TK-11170,2025-10-23 02:26,Hardware,baja,Portal,Logística,TEC-01,0,75.3,No,1
+TK-10410,2025-04-14 08:34,Software,Media,Portal,Finanzas,TEC-04,2,22.2,Sí,4
+TK-10851,2025-08-06 11:32,Software,Media,Teléfono,Logística,TEC-01,0,10.5,Sí,
+TK-10986,2025-09-09 07:24,Accesos,Baja,Portal,Recursos Humanos,TEC-07,0,20.2,Sí,3
+TK-11359,2025-12-09 16:42,Software,Alta,Correo,Recursos Humanos,TEC-03,0,7.5,Sí,5
+TK-10320,2025-03-19 19:17, Red ,Media,Portal,Ventas,TEC-02,1,26.8,No,2
+TK-10743,2025-07-10 17:23,Red,Alta,Chat,Finanzas,TEC-03,0,13.2,No,5
+TK-11202,2025-10-29 07:23,Hardware,MEDIA,Portal,Logística,TEC-05,0,21.8,Sí,5
+TK-11236,10/11/2025 23:45,Accesos,Media,Correo,Recursos Humanos,TEC-04,2,50.8,No,3
+TK-10611,2025-06-07 06:08,Correo,Alta,Correo,Ventas,TEC-01,0,4.9,Sí,3
+TK-11127,2025-10-12 21:36,Hardware,Media,Portal,Finanzas,TEC-03,1,31.1,No,2
+TK-10050,11/01/2025 22:43,Software,Media,Correo,Operaciones,TEC-03,0,20.2,Sí,4
+TK-10786,2025-07-22 21:09,Accesos,Media,Teléfono,Logística,TEC-08,1,13.3,Sí,5
+TK-10060,2025-01-15 02:09,Hardware,Alta,Teléfono,Finanzas,TEC-08,0,10.3,No,5
+TK-11207,2025-10-31 08:18,ACCESOS,Baja,Portal,Operaciones,TEC-08,0,29.2,Sí,
+TK-11329,2025-12-03 16:26,Red,Media,Portal,Finanzas,TEC-08,0,18.8,Sí,
+TK-10462,2025-04-29 04:20,Software,Media,Correo,Recursos Humanos,TEC-02,1,35.2,No,3
+TK-11307,28/11/2025 16:18,Software,Baja,Portal,Ventas,TEC-04,0,24.9,Sí,2
+TK-10535,2025-05-17 21:58,Hardware,Alta,Teléfono,Finanzas,TEC-07,0,10.3,No,4
+TK-10629,2025-06-10 22:23,Accesos,Baja,Portal,Ventas,TEC-03,0,15.0,Sí,4
+TK-10929,2025-08-25 15:00,Hardware,Baja,Teléfono,Finanzas,TEC-03,1,44.8,Sí,3
+TK-11243,12/11/2025 15:15,Accesos,Media,Portal,Ventas,TEC-06,1,16.5,Sí,3
+TK-11167,2025-10-21 13:36,Accesos,Media,Portal,Operaciones,TEC-08,1,16.2,Sí,2
+TK-11315,2025-12-01 00:00,Red,Alta,Portal,Ventas,TEC-03,1,30.4,No,3
+TK-10402,2025-04-12 16:00,Software,Crítica,Chat,Logística,TEC-06,1,39.0,No,2
+TK-10982,2025-09-07 17:47,Hardware,Alta,Correo,Finanzas,TEC-03,0,25.0,No,3
+TK-10372,2025-04-05 04:50,Correo,Alta,Portal,Logística,TEC-06,1,11.1,No,4
+TK-10400,2025-04-12 00:45,Hardware,BAJA,Portal,Operaciones,TEC-07,1,36.2,si,3
+TK-10972,2025-09-05 04:00,Accesos,Alta,Portal,Gerencia,TEC-02,2,86.5,No,1
+TK-11197,2025-10-28 09:25,Red,Alta,Teléfono,Gerencia,TEC-05,0,9.7,No,4
+TK-10996,2025-09-11 01:36,Correo,baja,Portal,Recursos Humanos,TEC-03,1,23.2,Sí,4
+TK-11396,2025-12-18 20:41,Correo,Baja,Portal,Operaciones,TEC-06,0,33.1,Sí,4
+TK-10038,2025-01-08 06:15,Red,Baja,Correo,Ventas,TEC-02,1,32.7,Sí,4
+TK-10590,2025-05-31 12:38,Software,Alta,Correo,Operaciones,TEC-06,0,7.9,Sí,
+TK-10674,2025-06-24 08:52,Hardware,Baja,Correo,Operaciones,TEC-01,1,36.3,Sí,
+TK-11076,2025-09-30 06:08,Software,Baja,Correo,Operaciones,TEC-02,1,41.8,Sí,4
+TK-10107,2025-01-23 18:48,Accesos,Media,Teléfono,Gerencia,TEC-02,0,9.6,Sí,
+TK-10323,2025-03-21 22:32,Software,Alta,Portal,,TEC-03,0,"1,9",Sí,3
+TK-10352,2025-03-29 23:43,Correo,Crítica,Portal,Operaciones,TEC-01,0,4.2,No,5
+TK-10357,2025-03-30 17:49,Hardware,Alta,Correo,Operaciones,TEC-03,1,25.7,No,3
+TK-10836,2025-08-04 03:42,Software,Baja,Teléfono,Ventas,TEC-06,0,16.4,Sí,5
+TK-10716,2025-07-05 15:31,Accesos,Media,Correo,Recursos Humanos,TEC-07,1,17.0,Sí,5
+TK-10252,2025-02-28 09:17,Red,Baja,Portal,Operaciones,TEC-07,0,30.0,Sí,4
+TK-11178,2025-10-23 23:43,Software,Media,Portal,Ventas,TEC-04,0,13.5,Sí,5
+TK-11217,2025-11-05 01:37,Software,Baja,Correo,Ventas,TEC-05,1,29.2,Sí,3
+TK-10848,2025-08-06 03:44,Software,Baja,Portal,Ventas,TEC-02,0,22.2,Sí,4
+TK-10391,2025-04-09 15:54,Hardware,Media,Portal,Recursos Humanos,TEC-08,1,26.7,No,3
+TK-10444,2025-04-24 23:49,Hardware,Alta,Teléfono,Operaciones,TEC-02,0,8.6,No,3
+TK-10568,2025-05-27 02:23,Red,Alta,Teléfono,Ventas,TEC-05,1,14.9,No,4
+TK-10216,2025-02-20 13:20,Software,Media,Teléfono,Recursos Humanos,TEC-01,4,38.0,No,2
+TK-10339,2025-03-27 03:11,Accesos,Baja,Correo,Ventas,TEC-06,1,26.0,Sí,3
+TK-10795,2025-07-24 09:49,Correo,Media,Portal,Recursos Humanos,TEC-04,1,25.2,No,1
+TK-11328,2025-12-03 16:23,Accesos,baja,Teléfono,Gerencia,TEC-07,1,19.4,Sí,3
+TK-10910,2025-08-21 14:09,Accesos,Alta,Chat,Operaciones,TEC-05,1,9999,No,5
+TK-10057,2025-01-14 09:45,Red,Media,Teléfono,Recursos Humanos,TEC-03,1,34.7,No,3
+TK-10669,2025-06-23 11:18,Correo,Baja,Chat,Recursos Humanos,TEC-08,2,-28.3,Sí,3
+TK-10633,2025-06-13 16:29,Software,Baja,Chat,Finanzas,TEC-01,1,22.9,Sí,3
+TK-10682,2025-06-27 04:46,Correo,Media,Portal,Logística,TEC-06,1,14.3,Sí,4
+TK-10804,2025-07-27 01:45,Software,Alta,Portal,Finanzas,TEC-04,0,2.6,Sí,5
+TK-10182,2025-02-10 21:18,Software,Baja,Chat,Finanzas,TEC-05,1,28.6,Sí,4
+TK-10054,2025-01-13 05:30,Accesos,Alta,Portal,Logística,TEC-03,0,0.3,Sí,4
+TK-11036,2025-09-20 09:20,Red,Baja,Portal,Gerencia,TEC-04,1,"33,7",Sí,3
+TK-11398,2025-12-19 12:00,Software,Media,Portal,Operaciones,TEC-02,1,21.2,Sí,4
+TK-10347,2025-03-29 07:07,Hardware,Media,Portal,Gerencia,TEC-04,0,17.4,Sí,4
+TK-10232,2025-02-23 15:06,Correo,Baja,Portal,Logística,TEC-03,1,,Sí,4
+TK-10152,2025-02-03 08:22,Software,Media,Correo,Ventas,TEC-06,0,21.8,Sí,5
+TK-10501,2025-05-11 10:31,Correo,Baja,Correo,Ventas,TEC-03,1,31.2,Sí,4
+TK-11379,2025-12-13 11:52,Software,Media,Correo,Recursos Humanos,TEC-08,2,42.3,No,2
+TK-10828,2025-08-02 05:34,Software,Media,Portal,Operaciones,TEC-07,1,24.9,No,5
+TK-10231,2025-02-23 13:45,Accesos,Media,Portal,Ventas,TEC-03,2,21.8,Sí,2
+TK-10926,25/08/2025 03:28,Accesos,Baja,Teléfono,Ventas,TEC-06,0,12.5,Sí,3
+TK-10525,2025-05-16 07:47,Hardware,Baja,Portal,Finanzas,TEC-03,2,76.2,No,0
+TK-11137,2025-10-15 06:22,Accesos,Media,Teléfono,,TEC-01,1,24.1,No,3
+TK-10022,05/01/2025 10:29,Hardware,Baja,Teléfono,Logística,TEC-02,1,32.6,Sí,4
+TK-10406,2025-04-13 13:50,Red,Media,Correo,Finanzas,TEC-08,1,21.8,Sí,4
+TK-10258,2025-03-01 22:45,Software,ALTA,Correo,Finanzas,TEC-04,0,4.9,si,5
+TK-10930,2025-08-25 15:40,Hardware,Baja,Portal,Gerencia,TEC-02,1,40.8,Sí,4
+TK-10701,2025-07-03 03:17,Red,Media,Correo,Recursos Humanos,TEC-01,2,34.6,No,3
+TK-10389,09/04/2025 03:06,Software,Media,Portal,Ventas,TEC-03,0,59.5,No,1
+TK-10695,2025-06-30 13:36,Hardware,Media,Correo,Logística,TEC-06,2,40.6,No,2
+TK-10526,2025-05-16 16:20,Software,Media,Correo,Recursos Humanos,TEC-08,1,25.9,No,5
+TK-11316,2025-12-01 03:56,Red,Media,Teléfono,Recursos Humanos,TEC-04,2,27.3,No,2
+TK-10186,2025-02-11 09:27,Hardware,Media,Correo,Ventas,TEC-01,1,28.6,No,4
+TK-10943,2025-08-28 21:59,Software,Media,Portal,Recursos Humanos,TEC-07,2,91.3,No,1
+TK-10044,2025-01-09 17:25,red,Media,Chat,Operaciones,TEC-02,0,17.4,Sí,5
+TK-10474,2025-05-01 19:40,Accesos,Baja,Portal,Finanzas,TEC-07,1,27.7,Sí,3
+TK-10853,2025-08-06 20:31,Red,Alta,Correo,Finanzas,TEC-08,3,26.6,No,4
+TK-11204,2025-10-30 06:10,Software,Media,Correo,Finanzas,TEC-06,0,12.4,Sí,4
+TK-10341,2025-03-27 17:48,Hardware,Baja,Correo,Operaciones,TEC-02,1,38.3,Sí,4
+TK-10143,2025-02-01 18:02,Software,Media,Teléfono,Ventas,TEC-02,0,16.3,Sí,4
+TK-11084,2025-10-02 11:20,Software,Alta,Correo,Ventas,TEC-03,0,12.4,No,3
+TK-11145,2025-10-17 16:10,Software,Media,Portal,Operaciones,TEC-02,1,20.3,Sí,4
+TK-11334,2025-12-04 17:56, Red ,Crítica,Chat,Ventas,TEC-04,2,19.7,No,4
+TK-11438,2025-12-30 01:40,Correo,Baja,Portal,Finanzas,TEC-05,2,31.1,Sí,2
+TK-10830,2025-08-02 16:06,Correo,Alta,Correo,Logística,TEC-02,0,7.7,Sí,5
+TK-10142,2025-02-01 14:18,Software,Baja,Correo,Ventas,TEC-01,1,30.9,Sí,9
+TK-10961,2025-09-02 20:02,Accesos,Media,Correo,Ventas,TEC-01,2,22.4,Sí,3
+TK-11116,2025-10-09 21:57,Correo,Media,Correo,Ventas,TEC-07,0,11.5,Sí,5
+TK-10316,2025-03-18 18:50,Software,Media,Chat,Finanzas,TEC-08,0,11.3,Sí,5
+TK-10330,2025-03-23 21:02,Software,Baja,Portal,Ventas,TEC-05,1,32.0,Sí,2
+TK-10513,2025-05-13 04:08,Software,Baja,Correo,Ventas,TEC-07,1,38.1,Sí,2
+TK-10147,2025-02-02 05:28,Hardware,Media,Portal,Ventas,TEC-01,1,37.3,No,2
+TK-10346,2025-03-28 20:31,Correo,Baja,Portal,Operaciones,TEC-07,0,20.2,Sí,4
+TK-10833,2025-08-03 08:33,Red,Media,Teléfono,Finanzas,TEC-05,1,25.7,No,3
+TK-10684,2025-06-27 20:03,Correo,Media,Teléfono,,TEC-04,1,24.5,No,
+TK-11003,2025-09-12 05:41,Software,Alta,Correo,Finanzas,TEC-01,0,"9,4",No,5
+TK-10800,2025-07-26 11:13,Red,Media,Teléfono,Logística,TEC-06,2,23.2,Sí,2
+TK-10773,2025-07-19 04:39,Hardware,Crítica,Portal,Finanzas,TEC-04,1,15.7,No,3
+TK-10067,2025-01-16 12:56,Hardware,Media,Teléfono,Operaciones,TEC-01,0,"26,0",No,4
+TK-10933,2025-08-26 11:49,Software,Crítica,Chat,Ventas,TEC-03,0,0.3,Sí,
+TK-11445,2025-12-31 07:22,Hardware,crítica,Teléfono,Ventas,TEC-06,0,8.8,No,5
+TK-11347,2025-12-08 02:38,Hardware,Baja,Chat,Operaciones,TEC-06,2,35.7,Sí,
+TK-10644,2025-06-17 10:38,Hardware,Media,Teléfono,Finanzas,TEC-08,1,24.7,No,4
+TK-11320,02/12/2025 09:36,Software,Media,Correo,Recursos Humanos,TEC-05,0,27.8,No,3
+TK-10809,28/07/2025 02:58,Software,Baja,Portal,Logística,TEC-01,1,37.2,Sí,2
+TK-10646,2025-06-18 02:58,Red,Crítica,Portal,Finanzas,TEC-01,2,22.7,No,5
+TK-10418,2025-04-16 15:53,Correo,Baja,Correo,Operaciones,TEC-07,0,20.0,Sí,3
+TK-10499,10/05/2025 21:41,Software,Alta,Teléfono,Recursos Humanos,TEC-03,1,6.5,Sí,4
+TK-11089,2025-10-03 01:12,Hardware,Alta,Portal,Ventas,TEC-02,2,24.9,No,
+TK-10542,2025-05-20 07:59,Red,Media,Teléfono,Operaciones,TEC-06,0,25.5,No,
+TK-11355,2025-12-08 17:01,Accesos,Baja,Chat,Ventas,TEC-01,1,21.6,Sí,4
+TK-10314,2025-03-18 13:54,HARDWARE,Alta,Teléfono,Recursos Humanos,TEC-05,0,-9.7,No,5
+TK-10307,2025-03-17 07:16,Software,BAJA,Portal,Ventas,TEC-03,0,19.7,Sí,4
+TK-10941,2025-08-28 14:01,Red,Media,Teléfono,Finanzas,TEC-04,1,22.0,Sí,
+TK-10130,2025-01-30 04:19,Accesos,Media,Correo,Ventas,TEC-05,1,24.2,No,
+TK-10396,2025-04-11 09:38,Accesos,Baja,Chat,Finanzas,TEC-02,0,12.1,si,4
+TK-11368,2025-12-11 19:29,Accesos,Media,Portal,Ventas,TEC-06,0,17.9,Sí,5
+TK-10327,2025-03-23 10:13,Hardware,Media,Correo,Finanzas,TEC-02,0,23.3,Sí,4
+TK-10192,2025-02-13 06:46,Hardware,media,Portal,Ventas,TEC-08,0,17.9,Sí,
+TK-10723,2025-07-06 10:35,red,Media,Chat,Operaciones,TEC-07,3,30.3,No,2
+TK-11122,2025-10-11 12:00,Software,Crítica,Correo,Recursos Humanos,TEC-05,2,25.4,No,4
+TK-10994,2025-09-10 12:29,Hardware,Crítica,Teléfono,Finanzas,TEC-08,0,7.6,No,4
+TK-10921,2025-08-24 06:29,Software,Media,Correo,Gerencia,TEC-04,0,19.6,Sí,5
+TK-10496,2025-05-09 18:01,Software,Baja,Chat,Recursos Humanos,TEC-05,3,56.6,No,2
+TK-11033,2025-09-19 23:26,Accesos,Media,Teléfono,,TEC-06,1,46.4,No,2
+TK-10868,2025-08-11 14:39,Accesos,Media,Correo,Gerencia,TEC-06,1,103.9,No,
+TK-10385,2025-04-08 16:19,Hardware,Baja,Teléfono,Ventas,TEC-01,1,"37,2",si,3
+TK-11240,2025-11-12 04:24,SOFTWARE,Media,Portal,Gerencia,TEC-05,1,22.5,Sí,3
+TK-10653,2025-06-19 22:07,Accesos,Media,Portal,Recursos Humanos,TEC-03,0,"26,9",No,2
+TK-11227,2025-11-07 17:05,Correo,Alta,Portal,Ventas,TEC-04,2,20.1,No,4
+TK-10398,2025-04-11 12:48,Red,Baja,Portal,Ventas,TEC-06,1,46.0,Sí,2
+TK-10947,2025-08-30 11:32,Software,Crítica,Portal,Recursos Humanos,TEC-06,0,0.3,Sí,5
+TK-11107,2025-10-07 09:27,Correo,Media,Portal,Finanzas,TEC-01,2,23.4,Sí,4
+TK-11019,2025-09-16 00:26,Hardware,Media,Portal,Logística,TEC-07,1,27.4,No,
+TK-10725,2025-07-07 01:53,Software,Media,Teléfono,Recursos Humanos,TEC-01,0,20.0,Sí,3
+TK-10533,2025-05-17 03:49,Red,Alta,Correo,Ventas,TEC-02,1,24.2,No,5
+TK-10763,2025-07-16 11:09,Hardware,Media,Teléfono,Gerencia,TEC-08,1,25.4,No,4
+TK-10162,2025-02-07 20:23,Red,Media,Portal,Logística,TEC-04,1,20.7,Sí,4
+TK-11235,2025-11-10 22:44,Software,Media,Teléfono,Operaciones,TEC-06,1,89.6,No,1
+TK-10937,2025-08-27 14:15, Software ,Baja,Teléfono,Ventas,TEC-08,1,24.7,Sí,3
+TK-11040,2025-09-21 21:04,Accesos,Baja,Portal,Recursos Humanos,TEC-08,0,25.3,Sí,4
+TK-11074,2025-09-29 20:00,Accesos,Media,Portal,Ventas,TEC-01,1,31.7,No,2
+TK-11257,2025-11-15 16:43,Correo,Baja,Portal,Operaciones,TEC-08,1,27.9,Sí,2
+TK-10021,2025-01-05 04:21, Software ,Baja,Teléfono,Ventas,TEC-06,1,38.3,Sí,4
+TK-10570,2025-05-27 17:59,Software,Baja,Chat,Finanzas,TEC-01,0,21.5,Sí,5
+TK-10654,2025-06-19 22:25,Hardware,Media,Portal,Ventas,TEC-06,0,32.0,No,
+TK-10697,2025-06-30 21:21,Accesos,Media,Portal,Recursos Humanos,TEC-08,0,12.4,Sí,5
+TK-10482,2025-05-05 03:39,Software,Media,Portal,Operaciones,TEC-04,2,32.1,No,3
+TK-10034,2025-01-07 01:41,Software,Media,Correo,,TEC-06,1,33.7,No,4
+TK-11050,2025-09-23 21:36,Red,Alta,Teléfono,Ventas,TEC-03,0,24.8,No,
+TK-10048,2025-01-11 04:42,Software,Baja,Correo,Operaciones,TEC-08,1,27.6,Sí,4
+TK-10030,2025-01-06 05:50,Software,Media,Chat,Finanzas,TEC-04,0,16.5,Sí,4
+TK-11006,2025-09-13 03:42,Accesos,Baja,Teléfono,Ventas,TEC-03,1,28.6,Sí,3
+TK-11308,2025-11-29 11:27,Correo,Crítica,Portal,,TEC-05,1,12.8,No,4
+TK-11129,2025-10-14 07:21,Accesos,Alta,Teléfono,Ventas,TEC-04,1,15.1,No,4
+TK-11264,2025-11-16 10:07,Hardware,Baja,Portal,Finanzas,TEC-05,0,32.9,Sí,3
+TK-10511,2025-05-12 22:05,Software,Media,Chat,Ventas,TEC-07,3,44.5,No,2
+TK-10531,2025-05-17 03:23,Software,Alta,Chat,Recursos Humanos,TEC-07,2,22.7,No,4
+TK-10923,2025-08-24 19:39,Software,Media,Portal,Recursos Humanos,TEC-07,2,21.8,Sí,4
+TK-10502,2025-05-11 14:04,Correo,Baja,Correo,,TEC-07,0,22.6,Sí,3
+TK-10433,2025-04-19 14:25,Hardware,Baja,Portal,,TEC-04,0,30.0,Sí,2
+TK-10254,2025-02-28 11:12,Software,Media,Correo,Recursos Humanos,TEC-06,2,27.8,No,
+TK-11446,2025-12-31 08:10,Software,Crítica,Portal,Ventas,TEC-05,0,6.0,No,4
+TK-11358,2025-12-08 22:35,Accesos,Alta,Portal,Logística,TEC-04,1,6.6,Sí,5
+TK-11206,2025-10-31 08:08,Accesos,Media,Correo,Logística,TEC-02,0,9.9,Sí,4
+TK-10780,2025-07-20 07:24,Hardware,Alta,Portal,Recursos Humanos,TEC-02,2,20.4,No,5
+TK-10367,2025-04-03 23:32,Software,Media,Correo,Ventas,TEC-02,0,22.3,Sí,5
+TK-11077,2025-09-30 10:47,Hardware,Crítica,Correo,Recursos Humanos,TEC-06,1,57.1,NO,
+TK-11079,2025-09-30 22:41,Correo,Baja,Correo,Logística,TEC-06,0,25.7,Sí,4
+TK-10681,2025-06-27 00:10,hardware,Media,Portal,Logística,TEC-04,2,31.5,No,4
+TK-11195,2025-10-27 04:19,Correo,Media,Correo,Finanzas,TEC-08,1,21.7,Sí,5
+TK-10813,2025-07-29 02:31,Red,Alta,Chat,Finanzas,TEC-02,1,16.4,No,4
+TK-10736,08/07/2025 21:26,Software,Baja,Teléfono,Ventas,TEC-07,4,40.6,Sí,2
+TK-11049,2025-09-23 06:40,Correo,Media,Chat,Logística,TEC-03,2,50.5,NO,3
+TK-10299,2025-03-15 03:09,Correo,Alta,Portal,Finanzas,TEC-06,2,12.3,No,3
+TK-10557,24/05/2025 01:41,Software,Baja,Correo,Ventas,TEC-03,1,27.8,Sí,
+TK-10576,2025-05-28 21:20,Software,Media,Correo,Finanzas,TEC-06,0,24.4,No,
+TK-10019,2025-01-05 00:29,Hardware,Media,Correo,Finanzas,TEC-03,1,34.8,NO,4
+TK-10573,2025-05-28 05:13,Software,Media,Portal,Recursos Humanos,TEC-08,0,15.3,Sí,4
+TK-10226,2025-02-22 19:52,Software,Baja,Portal,Ventas,TEC-05,2,38.6,Sí,4
+TK-10600,2025-06-03 02:42,Hardware,Media,Correo,Logística,TEC-08,0,21.0,Sí,4
+TK-10420,2025-04-17 06:11,Software,Media,Chat,Recursos Humanos,TEC-01,0,8.1,Sí,5
+TK-11163,2025-10-21 04:04,Accesos,Alta,Chat,Finanzas,TEC-01,2,10.3,No,4
+TK-10219,2025-02-20 23:45,Accesos,Baja,Chat,Ventas,TEC-01,0,23.4,Sí,5
+TK-10308,17/03/2025 10:10,Software,Baja,Correo,Logística,TEC-03,0,32.9,si,4
+TK-10157,2025-02-06 19:12, Software ,Baja,Chat,Operaciones,TEC-07,3,37.2,Sí,2
+TK-10172,2025-02-09 07:57,Software,Baja,Portal,Operaciones,TEC-04,3,38.9,Sí,2
+TK-11183,2025-10-24 21:36,Hardware,Crítica,Correo,Logística,TEC-07,0,12.8,No,3
+TK-10706,2025-07-04 07:29,Hardware,Media,Portal,Finanzas,TEC-04,0,"26,8",No,3
+TK-10287,2025-03-09 18:27,Accesos,Alta,Chat,Recursos Humanos,TEC-08,2,12.1,No,3
+TK-11091,2025-10-03 11:58,Red,Crítica,Chat,Finanzas,TEC-05,0,0.3,Sí,5
+TK-10454,2025-04-27 04:46,Correo,Baja,Teléfono,Ventas,TEC-07,2,28.2,Sí,2
+TK-11450,2025-12-31 23:46,Correo,Media,Chat,Ventas,TEC-07,1,17.1,Sí,5
+TK-10072,2025-01-17 10:23,Hardware,Media,Correo,Operaciones,TEC-05,1,38.1,No,2
+TK-10083,2025-01-19 09:23,Hardware,Crítica,Portal,Operaciones,TEC-08,0,12.6,NO,4
+TK-11160,2025-10-20 11:51,Accesos,BAJA,Chat,Finanzas,TEC-01,1,27.7,Sí,
+TK-11436,2025-12-30 00:23,Accesos,Media,Chat,Ventas,TEC-05,0,7.4,Sí,5
+TK-10016,2025-01-04 15:03,Software,Alta,Chat,Operaciones,TEC-07,1,5.5,Sí,5
+TK-10536,2025-05-18 07:37,Accesos,Media,Portal,Gerencia,TEC-08,2,71.5,No,
+TK-11239,2025-11-11 12:57,Hardware,Media,Teléfono,Operaciones,TEC-06,1,26.3,No,3
+TK-10919,2025-08-23 22:57,Software,Media,Chat,Finanzas,TEC-01,2,68.4,No,2
+TK-10452,26/04/2025 16:19,Accesos,Baja,Portal,Operaciones,TEC-04,2,,Sí,2
+TK-11201,2025-10-29 06:09,Hardware,Alta,Teléfono,Operaciones,TEC-01,1,"15,3",No,5
+TK-10405,2025-04-13 04:48,Accesos,Media,Portal,Logística,TEC-08,1,13.7,Sí,4
+TK-11383,2025-12-14 21:15,Hardware,Media,Chat,Ventas,TEC-07,1,26.1,No,3
+TK-11281,2025-11-21 23:20,Red,alta,Portal,Operaciones,TEC-05,0,8.8,No,5
+TK-10740,2025-07-10 05:18,Hardware,Alta,Portal,Operaciones,TEC-05,2,37.5,No,3
+TK-10365,2025-04-02 21:53,Software,Baja,Portal,Finanzas,TEC-02,2,36.9,Sí,3
+TK-10105,2025-01-23 07:37,Software,Media,Portal,Operaciones,TEC-07,1,40.7,No,4
+TK-11389,2025-12-16 13:37,software,Alta,Chat,Logística,TEC-04,1,24.6,No,2
+TK-11233,2025-11-10 19:06,Accesos,Baja,Teléfono,Recursos Humanos,TEC-02,0,23.5,Sí,4
+TK-10662,2025-06-21 18:13,Hardware,Alta,Teléfono,Recursos Humanos,TEC-05,0,"17,0",No,4
+TK-10242,2025-02-25 22:53,Hardware,Media,Portal,Operaciones,TEC-08,0,,Sí,4
+TK-10431,2025-04-19 12:55,Hardware,Crítica,Correo,Finanzas,TEC-08,1,19.1,No,3
+TK-10815,2025-07-29 15:10,Accesos,Crítica,Chat,Recursos Humanos,TEC-07,1,3.1,Sí,5
+TK-10631,2025-06-10 23:00,Software,Media,Correo,Recursos Humanos,TEC-02,0,20.5,Sí,3
+TK-10097,2025-01-22 03:14,Software,Media,Portal,Logística,TEC-02,1,15.9,Sí,3
+TK-10468,2025-04-30 06:18,Red,Alta,Portal,Ventas,TEC-06,2,19.6,No,2
+TK-10085,2025-01-19 21:15,Hardware,Baja,Correo,Logística,TEC-02,1,44.4,Sí,5
+TK-10702,2025-07-03 19:43, Software ,Baja,Portal,Operaciones,TEC-08,2,43.8,Sí,
+TK-10010,2025-01-03 00:55,Accesos,Media,Correo,Operaciones,TEC-07,2,25.9,No,3
+TK-10605,2025-06-05 12:54,HARDWARE,Crítica,Teléfono,Finanzas,TEC-01,1,12.2,No,5
+TK-10879,2025-08-13 17:23, Accesos ,Alta,Correo,Logística,TEC-01,1,12.1,No,4
+TK-10774,2025-07-19 05:06,Software,Alta,Portal,Finanzas,TEC-07,2,,No,2
+TK-10277,2025-03-06 22:37, Red ,Media,Teléfono,Finanzas,TEC-04,0,13.8,Sí,5
+TK-10089,2025-01-20 11:35,Software,Baja,Chat,Operaciones,TEC-02,0,29.2,Sí,3
+TK-10091,2025-01-21 07:16,hardware,Media,Portal,Operaciones,TEC-02,3,43.0,No,3
+TK-10766,2025-07-17 08:03,Hardware,Media,Correo,Ventas,TEC-04,2,36.9,No,
+TK-10281,08/03/2025 18:14,Correo,Media,Portal,Finanzas,TEC-07,1,28.4,No,4
+TK-11008,13/09/2025 14:18,Software,Baja,Correo,Finanzas,TEC-08,1,26.9,Sí,
+TK-10652,2025-06-19 15:53,Accesos,Media,Portal,Logística,TEC-04,1,,Sí,3
+TK-10993,2025-09-10 04:35,Red,Media,Portal,Logística,TEC-07,1,18.7,Sí,4
+TK-10366,2025-04-03 06:00,Software,Media,Chat,Finanzas,TEC-07,0,10.3,Sí,4
+TK-10024,2025-01-05 14:31,Software,Alta,Correo,Ventas,TEC-07,1,14.8,No,4
+TK-10677,2025-06-25 02:06,Hardware,Baja,Portal,Operaciones,TEC-02,0,28.7,Sí,4
+TK-10999,2025-09-11 12:27,Accesos,Crítica,Teléfono,Ventas,TEC-03,2,6.8,No,5
+TK-10311,2025-03-18 02:54,Red,Media,Portal,Gerencia,TEC-01,2,27.2,No,0
+TK-11061,2025-09-27 06:06, Correo ,Media,Teléfono,Ventas,TEC-07,1,15.8,Sí,5
+TK-10641,2025-06-16 19:18,Software,Media,Teléfono,Operaciones,TEC-05,0,16.5,Sí,5
+TK-10241,25/02/2025 20:01,Red,Media,Correo,Operaciones,TEC-02,1,24.3,No,2
+TK-10667,2025-06-23 03:24,Correo,Media,Portal,Logística,TEC-01,0,14.1,Sí,4
+TK-11287,2025-11-23 03:20,Red,Crítica,Chat,Logística,TEC-08,2,24.2,No,3
+TK-10099,2025-01-22 09:37,ACCESOS,Media,Teléfono,Recursos Humanos,TEC-08,0,9999,Sí,5
+TK-10168,2025-02-08 10:29,Hardware,Crítica,Correo,Logística,TEC-05,2,27.2,No,4
+TK-10497,2025-05-09 23:17,Software,Alta,Correo,Operaciones,TEC-08,0,15.9,No,5
+TK-10276,2025-03-06 11:11, Software ,Baja,Portal,Operaciones,TEC-04,0,19.2,Sí,
+TK-11114,2025-10-09 05:51,Software,Alta,Portal,Logística,TEC-02,0,4.5,Sí,4
+TK-10715,2025-07-05 15:29,Hardware,Crítica,Portal,Finanzas,TEC-06,3,22.9,No,3
+TK-11255,2025-11-15 13:18,Red,Baja,Teléfono,Finanzas,TEC-08,0,23.6,Sí,4
+TK-10332,2025-03-24 20:22,Correo,Media,Portal,Recursos Humanos,TEC-06,3,25.8,No,3
+TK-10220,2025-02-21 04:38,Hardware,Baja,Correo,Finanzas,TEC-04,1,39.2,Sí,4
+TK-10434,2025-04-20 11:16,Hardware,Baja,Portal,Operaciones,TEC-01,0,"27,7",Sí,4
+TK-11439,2025-12-30 10:13,Correo,Media,Portal,Operaciones,TEC-01,1,13.9,Sí,4
+TK-11278,2025-11-20 16:54,Red,Media,Teléfono,Operaciones,TEC-03,0,21.3,Sí,3
+TK-10487,2025-05-06 07:45,Hardware,Media,Portal,Operaciones,TEC-01,0,22.9,Sí,3
+TK-10532,2025-05-17 03:46,Hardware,Alta,Portal,Ventas,TEC-04,1,23.7,No,4
+TK-11296,25/11/2025 09:39,Hardware,Media,Chat,Operaciones,TEC-04,3,-35.1,No,3
+TK-10261,2025-03-02 04:03,Software,Baja,Correo,Logística,TEC-02,1,29.5,Sí,4
+TK-10811,2025-07-28 20:51,Hardware,media,Portal,Operaciones,TEC-08,2,,No,
+TK-10306,2025-03-16 20:28,Accesos,Crítica,Portal,Recursos Humanos,TEC-06,1,6.7,No,4
+TK-11260,2025-11-15 22:08,Red,Crítica,Correo,Ventas,TEC-02,2,19.7,No,3
+TK-10197,2025-02-15 23:39,Software,Media,Chat,Operaciones,TEC-01,1,18.9,si,4
+TK-11165,2025-10-21 07:27,Red,media,Portal,Operaciones,TEC-08,2,32.9,No,2
+TK-11147,2025-10-18 04:47,Accesos,Baja,Portal,Recursos Humanos,TEC-08,1,26.8,Sí,
+TK-10495,2025-05-08 21:32,Hardware,Alta,Portal,Finanzas,TEC-06,0,13.2,No,4
+TK-10111,2025-01-25 03:02,Accesos,Media,Portal,Ventas,TEC-05,0,8.1,Sí,5
+TK-11109,2025-10-07 19:36,Accesos,Baja,Correo,Operaciones,TEC-06,0,22.4,Sí,4
+TK-10514,2025-05-13 08:15,Correo,Media,Chat,Ventas,TEC-06,0,11.4,Sí,4
+TK-10692,2025-06-29 13:15,Accesos,Media,Portal,Gerencia,TEC-01,2,27.0,No,4
+TK-10370,2025-04-04 13:18,Software,Media,Chat,Finanzas,TEC-06,0,12.4,Sí,3
+TK-10794,2025-07-24 02:21,Correo,Baja,Portal,Ventas,TEC-04,0,17.6,si,
+TK-11099,2025-10-05 13:17,Hardware,Alta,Portal,Ventas,TEC-02,1,16.0,No,5
+TK-10927,2025-08-25 09:34,Red,Baja,Portal,Operaciones,TEC-01,0,20.8,Sí,4
+TK-10274,2025-03-05 05:53,Software,alta,Portal,Finanzas,TEC-05,2,14.1,No,3
+TK-10397,2025-04-11 12:36,Red,Media,Chat,Recursos Humanos,TEC-06,2,35.0,No,2
+TK-11179,2025-10-24 03:51,Software,Alta,Portal,Ventas,TEC-02,1,18.1,No,4
+TK-10987,2025-09-09 08:47,Hardware,Alta,Chat,Recursos Humanos,TEC-06,1,,No,3
+TK-10798,2025-07-25 01:09,Hardware,Baja,Correo,Finanzas,TEC-08,0,28.1,Sí,2
+TK-11212,2025-11-03 02:30,Hardware,Baja,Teléfono,Ventas,TEC-07,0,30.7,Sí,4
+TK-11075,2025-09-30 00:10,Hardware,Alta,Teléfono,Finanzas,TEC-01,1,17.9,No,3
+TK-11063,2025-09-27 21:06,Correo,Media,Teléfono,Logística,TEC-01,1,17.2,Sí,4
+TK-10962,2025-09-03 02:46,Software,Baja,Teléfono,Operaciones,TEC-03,1,25.2,Sí,4
+TK-10419,2025-04-16 21:51,Software,Alta,Portal,Finanzas,TEC-03,2,14.6,No,4
+TK-10376,2025-04-06 07:38,SOFTWARE,Crítica,Correo,Finanzas,TEC-02,0,9.6,No,4
+TK-10464,29/04/2025 20:05,Correo,Baja,Correo,Gerencia,TEC-03,2,30.9,Sí,5
+TK-10471,2025-05-01 06:08,Software,Baja,Teléfono,Ventas,TEC-05,0,18.5,si,5
+TK-11100,2025-10-05 16:34,Red,Alta,Correo,Finanzas,TEC-06,3,28.4,No,3
+TK-10560,2025-05-24 14:21,Red,Alta,Chat,Ventas,TEC-05,1,31.3,No,1
+TK-10303,2025-03-15 23:11,Red,Alta,Correo,Operaciones,TEC-03,1,21.1,No,4
+TK-10583,2025-05-29 22:52,Hardware,Baja,Portal,Operaciones,TEC-01,0,59.9,No,
+TK-10799,2025-07-25 13:28,Accesos,Alta,Teléfono,Logística,TEC-03,2,11.0,No,2
+TK-10012,2025-01-03 07:57,Accesos,Media,Chat,Operaciones,TEC-05,2,30.4,No,
+TK-11261,2025-11-15 23:34,Software,Baja,Portal,Recursos Humanos,TEC-07,1,29.1,Sí,2
+TK-10539,2025-05-19 03:57,Correo,Alta,Portal,Logística,TEC-08,0,6.7,Sí,5
+TK-10628,2025-06-10 17:52,Software,Baja,Portal,Operaciones,TEC-03,0,19.5,si,1
+TK-10282,2025-03-09 01:06,Red,Alta,Portal,Logística,TEC-03,2,24.4,No,3
+TK-10984,2025-09-08 13:07,Software,Alta,Teléfono,Ventas,TEC-01,1,9.0,No,
+TK-10413,2025-04-15 11:07,software,Baja,Correo,Recursos Humanos,TEC-05,0,20.8,Sí,4
+TK-10224,2025-02-22 01:00,Software,Media,Portal,Recursos Humanos,TEC-02,0,15.4,Sí,4
+TK-10673,2025-06-24 00:09,Hardware,Alta,Portal,Logística,TEC-05,1,88.9,No,1
+TK-10967,2025-09-04 15:18,Software,Media,Correo,Ventas,TEC-03,0,17.3,Sí,2
+TK-11150,2025-10-18 10:56,Software,Media,Portal,Operaciones,TEC-07,0,10.2,Sí,4
+TK-11094,2025-10-04 13:50,Software,Baja,Teléfono,Finanzas,TEC-08,1,40.6,Sí,2
+TK-10756,2025-07-14 01:31,Accesos,Baja,Correo,Operaciones,TEC-05,1,29.2,Sí,4
+TK-10995,2025-09-10 21:11,Software,Crítica,Portal,Operaciones,TEC-08,2,"15,5",No,
+TK-10581,2025-05-29 18:49,Hardware,Alta,Portal,Logística,TEC-07,0,18.5,No,5
+TK-11046,2025-09-22 20:32,Hardware,BAJA,Correo,Logística,TEC-05,0,40.4,Sí,4
+TK-10078,2025-01-18 00:27,Software,Crítica,Correo,Operaciones,TEC-05,0,1.2,Sí,5
+TK-10548,2025-05-21 16:28,Correo,Baja,Teléfono,Operaciones,TEC-03,0,20.5,Sí,5
+TK-10656,2025-06-20 08:21,Software,Media,Chat,Operaciones,TEC-05,1,14.3,Sí,4
+TK-10749,2025-07-12 04:03,Accesos,Crítica,Portal,Finanzas,TEC-08,1,2.3,Sí,4
+TK-10827,2025-08-02 01:44,Correo,Media,Correo,Finanzas,TEC-04,0,39.4,No,3
+TK-10126,28/01/2025 11:31,software,Media,Correo,Ventas,TEC-03,0,12.8,si,5
+TK-10758,2025-07-14 10:10,Correo,Media,Portal,Recursos Humanos,TEC-07,0,21.9,Sí,2
+TK-11067,2025-09-28 18:28,Accesos,Crítica,Chat,Ventas,TEC-06,0,7.4,No,3
+TK-10577,2025-05-29 00:36,Hardware,Media,Portal,Operaciones,TEC-04,1,37.4,No,2
+TK-10622,2025-06-09 07:55,Software,Baja,Correo,Operaciones,TEC-01,0,27.0,Sí,5
+TK-10768,2025-07-17 16:34,Red,Alta,Teléfono,Finanzas,TEC-05,0,20.0,No,3
+TK-11230,2025-11-09 04:41,Red,Media,Correo,Gerencia,TEC-08,1,29.8,No,2
+TK-10384,2025-04-08 10:27,Accesos,Media,Teléfono,Ventas,TEC-02,0,,Sí,5
+TK-11031,2025-09-19 13:04,Correo,Media,Correo,Operaciones,TEC-01,2,43.3,No,2
+TK-11357,2025-12-08 18:45,Software,Media,Portal,Finanzas,TEC-05,1,16.6,Sí,5
+TK-10803,2025-07-27 01:21,Software,Media,Teléfono,Logística,TEC-06,1,23.9,Sí,
+TK-10845,2025-08-05 06:32,Software,Crítica,Correo,Ventas,TEC-01,0,7.7,No,5
+TK-11267,2025-11-18 03:45,Software,Baja,Correo,Operaciones,TEC-05,0,28.9,Sí,4
+TK-10741,2025-07-10 07:45,Software,Alta,Portal,Logística,TEC-02,0,9.8,No,4
+TK-11288,2025-11-23 10:23,Hardware,Alta,Chat,Ventas,TEC-01,2,28.1,No,
+TK-10260,2025-03-02 02:22,Correo,Baja,Teléfono,Ventas,TEC-05,1,,Sí,3
+TK-10283,2025-03-09 05:58,Hardware,Baja,Portal,Operaciones,TEC-01,0,"46,9",Sí,3
+TK-10635,2025-06-14 16:25,Red,Alta,Portal,Operaciones,TEC-07,0,9.2,No,5
+TK-11416,2025-12-24 09:48,HARDWARE,Media,Correo,Finanzas,TEC-07,2,40.0,No,3
+TK-10475,2025-05-01 22:22,Hardware,Alta,Correo,Ventas,TEC-03,0,12.6,No,4
+TK-10456,2025-04-27 06:05,Software,Crítica,Portal,Operaciones,TEC-05,0,3.5,Sí,5
+TK-10321,2025-03-20 16:47,Software,Baja,Portal,Ventas,TEC-03,1,28.7,Sí,
+TK-10435,2025-04-20 13:33,Software,Baja,Portal,Ventas,TEC-01,0,29.5,Sí,5
+TK-10735,2025-07-08 17:11,Red,Baja,Portal,,TEC-04,1,34.4,si,2
+TK-10300,2025-03-15 04:57,Hardware,Media,Correo,Operaciones,TEC-07,0,21.1,Sí,3
+TK-10437,2025-04-22 01:25,Software,Media,Correo,Finanzas,TEC-05,0,18.1,Sí,4
+TK-11369,11/12/2025 22:55,Software,Alta,Portal,Logística,TEC-04,0,3.7,Sí,5
+TK-10439,2025-04-22 16:09,Red,Baja,Portal,Ventas,TEC-08,1,52.4,No,1
+TK-10326,2025-03-23 08:53,Hardware,Crítica,Portal,Operaciones,TEC-06,1,27.2,No,4
+TK-10404,2025-04-12 21:13,Hardware,Alta,Portal,Ventas,TEC-01,0,16.8,No,4
+TK-10565,2025-05-25 18:44,Red,Baja,Chat,Finanzas,TEC-06,1,28.4,Sí,
+TK-10293,2025-03-12 14:11,ACCESOS,Media,Portal,Ventas,TEC-05,2,25.6,No,3
+TK-10279,2025-03-07 14:25,Accesos,Baja,Teléfono,Ventas,TEC-07,0,20.9,Sí,3
+TK-10656,2025-06-20 08:21,Software,Media,Chat,Operaciones,TEC-05,1,14.3,Sí,4
+TK-11306,2025-11-28 13:43,software,Baja,Teléfono,Ventas,TEC-03,0,22.3,Sí,5
+TK-10733,2025-07-08 14:55,Software,Alta,Chat,Operaciones,TEC-05,1,6.7,Sí,4
+TK-10554,2025-05-23 13:43,Software,Alta,Correo,Ventas,TEC-01,0,8.6,NO,5
+TK-10095,2025-01-21 22:46,Hardware,Media,Portal,Finanzas,TEC-04,0,37.4,No,
+TK-11420,2025-12-25 03:22,Hardware,Crítica,Teléfono,Operaciones,TEC-02,1,18.2,No,4
+TK-11256,2025-11-15 14:35,Software,Baja,Teléfono,Ventas,TEC-02,0,20.0,Sí,5
+TK-10246,2025-02-26 23:23,Hardware,Media,Portal,Operaciones,TEC-06,1,38.9,No,4
+TK-10946,2025-08-30 01:17,Correo,Alta,Teléfono,Logística,TEC-01,1,16.5,No,3
+TK-11192,2025-10-26 12:56,Hardware,Alta,Teléfono,Finanzas,TEC-05,0,7.9,Sí,4
+TK-10776,2025-07-19 16:54,Red,Media,Portal,Recursos Humanos,TEC-03,1,22.8,Sí,0
+TK-10427,2025-04-18 03:32,ACCESOS,Baja,Chat,Ventas,TEC-03,0,25.3,Sí,3
+TK-11187,2025-10-25 16:34,Accesos,Baja,Correo,Operaciones,TEC-05,0,20.0,si,
+TK-10150,2025-02-02 17:33,Correo,Alta,Chat,Ventas,TEC-01,2,10.2,No,
+TK-10227,2025-02-22 23:04,Software,Crítica,Correo,Recursos Humanos,TEC-06,0,6.6,No,5
+TK-10866,2025-08-10 15:14,Hardware,Media,Portal,Finanzas,TEC-04,3,87.4,No,1
+TK-10968,2025-09-04 19:39,Software,Media,Teléfono,Recursos Humanos,TEC-04,0,21.8,Sí,5
+TK-11119,2025-10-10 15:29,Accesos,Media,Chat,Operaciones,TEC-01,0,6.5,Sí,
+TK-11246,2025-11-13 17:14,Hardware,Baja,Correo,Finanzas,TEC-05,0,39.8,Sí,3
+TK-10901,2025-08-19 04:12, Accesos ,Media,Teléfono,Finanzas,TEC-05,0,12.9,Sí,4
+TK-10700,2025-07-02 05:55,Red,Crítica,Correo,Recursos Humanos,TEC-05,1,15.9,No,9
+TK-10602,2025-06-03 17:34,Hardware,Baja,Correo,Finanzas,TEC-08,0,36.7,Sí,3
+TK-11292,2025-11-23 21:30,Hardware,Baja,Portal,Ventas,TEC-04,2,50.2,No,
+TK-11059,2025-09-26 23:38,Software,CRITICA,Portal,Operaciones,TEC-08,1,6.3,No,3
+TK-10218,2025-02-20 21:27,Red,Baja,Portal,Gerencia,TEC-03,1,30.0,Sí,3
+TK-11097,2025-10-05 03:33,Software,Alta,Portal,Operaciones,TEC-05,0,2.6,Sí,4
+TK-10818,2025-07-31 01:23,Accesos,Media,Correo,Finanzas,TEC-07,4,39.2,No,1
+TK-10221,2025-02-21 11:50,Hardware,Media,Portal,Logística,TEC-01,5,47.6,No,1
+TK-10214,2025-02-19 23:51,Software,Baja,Portal,Recursos Humanos,TEC-07,0,22.6,Sí,3
+TK-11395,2025-12-18 19:53,Correo,Crítica,Teléfono,Finanzas,TEC-04,1,1.0,Sí,
+TK-10908,2025-08-20 15:32,Software,Media,Chat,Ventas,TEC-05,1,30.4,No,3
+TK-10395,2025-04-11 06:53,Correo,Baja,Portal,Recursos Humanos,TEC-01,0,19.4,Sí,4
+TK-10368,2025-04-04 02:39,Software,Media,Portal,Operaciones,TEC-05,2,32.6,No,2
+TK-10925,2025-08-25 03:21,Accesos,Media,Portal,Logística,TEC-08,1,12.8,Sí,4
+TK-10013,2025-01-03 10:43,Correo,Media,Portal,Operaciones,TEC-03,2,22.3,Sí,2
+TK-11385,2025-12-15 07:45,Accesos,Crítica,Portal,Ventas,TEC-07,1,4.0,Sí,
+TK-11223,2025-11-05 20:58,Red,Baja,Portal,Ventas,TEC-06,1,42.4,Sí,3
+TK-10235,2025-02-24 05:02,Hardware,Media,Correo,Ventas,TEC-07,2,31.7,No,4
+TK-10696,2025-06-30 20:25,Hardware,Media,Correo,,TEC-08,2,35.3,No,2
+TK-11085,2025-10-02 12:11,Software,Media,Portal,Finanzas,TEC-05,3,27.9,No,2
+TK-11411,2025-12-23 01:23,Red,Baja,Chat,Logística,TEC-02,0,32.9,Sí,5
+TK-11331,2025-12-04 07:29,Hardware,Baja,Teléfono,Ventas,TEC-05,3,41.6,Sí,3
+TK-11322,2025-12-02 11:59,Accesos,Media,Portal,Logística,TEC-01,0,8.2,Sí,
+TK-10064,2025-01-15 18:14,Accesos,Baja,Portal,Logística,TEC-07,1,35.1,Sí,3
+TK-10735,2025-07-08 17:11,Red,Baja,Portal,,TEC-04,1,34.4,si,2
+TK-11024,2025-09-18 01:47,Hardware,Crítica,Correo,Logística,TEC-02,0,10.5,No,5
+TK-10965,2025-09-04 10:23,Hardware,Media,Portal,Logística,TEC-07,1,28.7,No,3
+TK-10608,2025-06-06 09:24,Hardware,Crítica,Portal,Recursos Humanos,TEC-06,2,18.0,No,3
+TK-10014,2025-01-03 16:06,Correo,Media,Correo,Ventas,TEC-05,2,38.8,No,1
+TK-10840,2025-08-04 10:29,Accesos,Media,Portal,Finanzas,TEC-08,0,16.5,Sí,5
+TK-10436,2025-04-21 16:40,Red,Media,Correo,Operaciones,TEC-04,0,27.2,No,4
+TK-10018,2025-01-04 21:43,Software,Media,Teléfono,Recursos Humanos,TEC-01,1,25.3,No,3
+TK-10765,2025-07-17 07:50,Hardware,Baja,Portal,Operaciones,TEC-05,2,43.3,Sí,3
+TK-10349,2025-03-29 12:50,Red,Baja,Portal,Ventas,TEC-04,1,26.7,Sí,3
+TK-10208,2025-02-18 14:15,Accesos,Baja,Chat,Ventas,TEC-07,1,26.2,Sí,4
+TK-11115,2025-10-09 17:11,Software,Baja,Chat,Gerencia,TEC-04,2,32.0,Sí,2
+TK-11332,2025-12-04 07:49,Hardware,Baja,Portal,Finanzas,TEC-03,1,37.2,si,2
+TK-10342,2025-03-28 05:05,Correo,Baja,Correo,Finanzas,TEC-08,1,24.5,Sí,5
+TK-10345,2025-03-28 17:57,Hardware,Media,Portal,Operaciones,TEC-03,1,71.5,No,1
+TK-11346,2025-12-07 23:32,Correo,Media,Portal,Recursos Humanos,TEC-08,1,25.6,No,4
+TK-11378,2025-12-13 09:19,Accesos,Alta,Chat,Operaciones,TEC-01,0,4.3,Sí,4
+TK-10552,23/05/2025 06:21,Accesos,Alta,Portal,Ventas,TEC-05,0,1.5,Sí,5
+TK-10599,2025-06-03 02:10,Hardware,Baja,Portal,Operaciones,TEC-01,0,25.4,Sí,
+TK-10033,2025-01-06 23:32,Hardware,Media,Chat,Operaciones,TEC-05,1,25.4,No,3
+TK-10373,2025-04-05 05:40,Hardware,Media,Chat,Operaciones,TEC-05,0,15.7,Sí,
+TK-10658,2025-06-21 05:54,Software,Alta,Portal,Gerencia,TEC-01,1,11.9,No,
+TK-10173,2025-02-09 08:32,Red,Media,Teléfono,Ventas,TEC-01,0,"15,8",Sí,5
+TK-11087,2025-10-02 15:56,Accesos,Crítica,Portal,Logística,TEC-01,0,1.0,Sí,5
+TK-11388,16/12/2025 12:38,Hardware,Alta,Correo,,TEC-05,1,23.9,No,3
+TK-10409,2025-04-14 01:45,Red,Alta,Correo,Ventas,TEC-01,3,"28,5",No,3
+TK-11051,2025-09-24 07:07,Hardware,Media,Chat,Gerencia,TEC-07,1,36.4,No,3
+TK-11432,2025-12-29 02:01,Correo,Media,Correo,Ventas,TEC-06,0,20.5,Sí,3
+TK-10201,2025-02-16 18:29,Software,Alta,Correo,,TEC-05,1,9999,No,3
+TK-11317,2025-12-01 20:57,Software,Baja,Chat,Recursos Humanos,TEC-03,0,19.1,si,5
+TK-10861,2025-08-08 16:14,Software,Baja,Portal,Finanzas,TEC-08,1,31.0,Sí,3
+TK-11402,2025-12-20 08:37,CORREO,Media,Chat,Ventas,TEC-02,1,18.8,Sí,5
+TK-11166,2025-10-21 13:18,Accesos,Alta,Correo,Gerencia,TEC-02,1,9.2,No,4
+TK-11380,2025-12-13 12:34,Hardware,Baja,Chat,Operaciones,TEC-06,0,32.5,Sí,3
+TK-11415,2025-12-24 05:28,Hardware,Alta,Correo,Ventas,TEC-06,1,31.1,No,3
+TK-11362,2025-12-10 09:03,Software,Media,Teléfono,Logística,TEC-07,1,15.9,Sí,4
+TK-10490,2025-05-07 20:15, Hardware ,Alta,Teléfono,Ventas,TEC-05,0,8.4,No,5
+TK-11413,2025-12-23 21:01,Red,Media,Correo,Ventas,TEC-02,0,,No,4
+TK-10213,2025-02-19 19:08,Red,Media,Teléfono,Recursos Humanos,TEC-02,1,27.5,No,3
+TK-10134,2025-01-31 04:22,Hardware,Baja,Chat,Finanzas,TEC-06,0,28.9,Sí,
+TK-10061,2025-01-15 13:09,Hardware,Crítica,Correo,Ventas,TEC-07,1,96.2,No,1
+TK-10691,2025-06-29 07:41,Software,Media,Correo,Logística,TEC-04,0,27.3,No,5
+TK-10027,05/01/2025 21:08,Software,Media,Teléfono,Operaciones,TEC-02,0,10.3,Sí,5
+TK-10101,2025-01-22 18:56,Accesos,Media,Correo,Recursos Humanos,TEC-07,3,41.0,No,1
+TK-10975,2025-09-05 15:59,Accesos,Media,Teléfono,Gerencia,TEC-06,0,"4,4",Sí,4
+TK-10777,19/07/2025 22:36,Correo,Media,Portal,Recursos Humanos,TEC-05,0,14.9,Sí,5
+TK-10789,2025-07-23 11:55,Software,Baja,Correo,Ventas,TEC-03,0,60.1,No,3
+TK-10521,2025-05-15 13:15,Software,Alta,Portal,Ventas,TEC-03,0,7.8,Sí,
+TK-10364,02/04/2025 11:03,Accesos,Media,Portal,Ventas,TEC-04,0,10.3,Sí,3
+TK-10310,2025-03-17 22:42,Accesos,Alta,Portal,Recursos Humanos,TEC-05,1,11.1,No,4
+TK-10796,2025-07-24 17:54,Accesos,Baja,Teléfono,Recursos Humanos,TEC-01,2,36.3,Sí,3
+TK-10829,2025-08-02 10:41,Hardware,Media,Teléfono,Recursos Humanos,TEC-08,0,78.2,No,1
+TK-11277,2025-11-20 16:43,RED,Media,Correo,Finanzas,TEC-08,2,29.9,No,1
+TK-10545,2025-05-20 18:00,SOFTWARE,Crítica,Correo,Finanzas,TEC-08,1,11.7,No,5
+TK-10940,28/08/2025 05:28,Software,Crítica,Teléfono,Finanzas,TEC-08,1,5.7,No,4
+TK-10442,2025-04-23 13:24,Software,Baja,Correo,Recursos Humanos,TEC-02,1,28.4,Sí,2
+TK-10648,2025-06-18 19:43,Accesos,Alta,Portal,Finanzas,TEC-06,2,11.3,No,4
+TK-11004,2025-09-12 17:54,Hardware,Baja,Portal,Operaciones,TEC-05,0,26.2,Sí,3
+TK-10477,2025-05-03 03:52,Accesos,Alta,Portal,Finanzas,TEC-04,2,18.0,No,5
+TK-11047,2025-09-22 21:31,Accesos,Alta,Chat,Finanzas,TEC-02,2,,No,
+TK-10063,2025-01-15 17:38,Hardware,Baja,Correo,Ventas,TEC-02,0,30.7,si,3
+TK-11173,2025-10-23 05:09,Hardware,Alta,Portal,Finanzas,TEC-02,2,31.4,No,2
+TK-10484,2025-05-06 00:34,Correo,Media,Correo,Finanzas,TEC-08,1,18.6,Sí,3
+TK-11027,2025-09-18 11:02,Software,Baja,Portal,Ventas,TEC-07,1,24.6,Sí,3
+TK-11282,2025-11-22 02:51,Accesos,Media,Portal,Ventas,TEC-02,0,19.4,Sí,5
+TK-10053,2025-01-12 22:40,Correo,Crítica,Teléfono,Operaciones,TEC-04,0,7.8,No,5
+TK-10243,2025-02-26 00:53,Software,Baja,Correo,Finanzas,TEC-05,2,36.9,Sí,3
+TK-11198,2025-10-28 18:33,Software,Media,Teléfono,Operaciones,TEC-07,0,9.6,Sí,4
+TK-10036,2025-01-07 06:02,Accesos,Media,Chat,Finanzas,TEC-02,1,21.0,Sí,4
+TK-11203,2025-10-29 17:17,Software,Alta,Portal,Ventas,TEC-02,0,9999,Sí,5
+TK-10739,2025-07-09 06:51,Red,Baja,Teléfono,Ventas,TEC-07,0,24.1,Sí,3
+TK-10121,2025-01-27 03:18,Correo,Media,Teléfono,Operaciones,TEC-05,1,20.2,Sí,5
+TK-11442,2025-12-30 20:15,Software,Media,Portal,Ventas,TEC-02,0,11.1,Sí,4
+TK-11300,2025-11-26 14:11,Red,Alta,Correo,Gerencia,TEC-02,0,14.5,No,5
+TK-11020,2025-09-16 09:29,Red,Baja,Correo,Operaciones,TEC-03,2,44.1,Sí,3
+TK-10045,2025-01-10 10:03,CORREO,Baja,Portal,Finanzas,TEC-07,0,15.6,Sí,5
+TK-11325,2025-12-02 19:00,Hardware,Baja,Correo,Ventas,TEC-05,0,32.5,Sí,3
+TK-10837,2025-08-04 05:30,Red,Baja,Correo,Ventas,TEC-08,1,45.2,Sí,2
+TK-10077,2025-01-17 23:49,Software,Media,Teléfono,Ventas,TEC-06,0,16.8,Sí,5
+TK-10369,2025-04-04 03:30,Red,Alta,Teléfono,Ventas,TEC-06,0,40.3,No,1
+TK-10907,2025-08-20 12:16,Correo,Alta,Portal,Logística,TEC-06,1,7.4,Sí,
+TK-11237,2025-11-11 02:33,Red,Alta,Portal,Operaciones,TEC-05,1,15.7,No,5
+TK-10268,2025-03-03 20:39,Accesos,Media,Teléfono,Ventas,TEC-01,0,17.6,Sí,5
+TK-11336,2025-12-05 12:07,Red,Alta,Correo,Finanzas,TEC-08,0,8.7,No,
+TK-10729,2025-07-07 17:15,Accesos,Baja,Portal,Recursos Humanos,TEC-01,1,23.7,Sí,3
+TK-10445,2025-04-25 00:06,Accesos,Media,Chat,Logística,TEC-06,0,10.7,Sí,4
+TK-10504,2025-05-11 17:03,Software,Baja,Chat,Recursos Humanos,TEC-05,0,21.3,Sí,3
+TK-11058,2025-09-26 10:58,Red,Media,Portal,Gerencia,TEC-04,0,20.2,Sí,5
+TK-11034,2025-09-20 01:28,Correo,Media,Portal,Finanzas,TEC-04,2,24.9,No,4
+TK-11185,2025-10-25 04:33,Accesos,Baja,Correo,Finanzas,TEC-07,0,19.1,Sí,4
+TK-10286,09/03/2025 15:04,Red,Crítica,Correo,Logística,TEC-05,0,8.1,No,4
+TK-10296,2025-03-13 19:46,Correo,Alta,Portal,Operaciones,TEC-01,1,"15,5",No,5
+TK-10626,2025-06-10 05:13,Red,Crítica,Chat,Gerencia,TEC-03,1,4.8,No,4
+TK-10278,2025-03-06 23:03,Hardware,Crítica,Teléfono,Ventas,TEC-02,0,8.2,No,4
+TK-11433,2025-12-29 11:46,Accesos,Baja,Chat,Recursos Humanos,TEC-06,1,20.8,Sí,4
+TK-10485,2025-05-06 04:22,Accesos,Alta,Teléfono,Ventas,TEC-01,0,6.6,Sí,5
+TK-10183,10/02/2025 23:48,Hardware,Media,Teléfono,Gerencia,TEC-06,0,39.1,No,
+TK-10971,2025-09-05 03:37,Hardware,Baja,Correo,Recursos Humanos,TEC-01,0,31.6,Sí,4
+TK-11418,2025-12-24 23:21,Red,Baja,Correo,Ventas,TEC-02,1,40.3,Sí,4
+TK-10685,2025-06-27 22:51,Software,Baja,Portal,Ventas,TEC-02,1,24.4,Sí,5
+TK-10479,2025-05-04 03:14,Correo,Baja,Teléfono,Ventas,TEC-03,0,23.3,Sí,3
+TK-10037,08/01/2025 05:39,Software,Baja,Teléfono,Finanzas,TEC-04,1,32.9,Sí,3
+TK-11181,2025-10-24 08:28,Correo,Baja,Correo,Recursos Humanos,TEC-08,3,42.2,Sí,3
+TK-10003,2025-01-01 11:59,Correo,Media,Chat,Ventas,TEC-08,0,8.6,Sí,4
+TK-10755,2025-07-14 00:05,Correo,Alta,Correo,Recursos Humanos,TEC-06,2,21.0,No,3
+TK-10509,2025-05-12 11:15,Software,Alta,Portal,Recursos Humanos,TEC-01,1,11.2,No,4
+TK-10498,2025-05-10 10:26,Hardware,Alta,Portal,Ventas,TEC-06,0,,No,5
+TK-10309,2025-03-17 19:07,Hardware,Baja,Correo,Logística,TEC-01,1,37.0,si,2
+TK-11314,2025-11-30 17:56,Correo,Media,Teléfono,Finanzas,TEC-05,1,13.3,si,4
+TK-10142,2025-02-01 14:18,Software,Baja,Correo,Ventas,TEC-01,1,30.9,Sí,9
+TK-11248,2025-11-13 18:41,Hardware,Media,Portal,Gerencia,TEC-07,0,17.7,Sí,4
+TK-10865,2025-08-10 13:29,Hardware,Alta,Portal,Gerencia,TEC-02,1,30.1,No,1
+TK-10184,2025-02-11 01:36,Software,Media,Correo,Ventas,TEC-04,2,26.8,No,4
+TK-10573,2025-05-28 05:13,Software,Media,Portal,Recursos Humanos,TEC-08,0,15.3,Sí,4
+TK-11011,2025-09-14 04:41,Accesos,Baja,Correo,Finanzas,TEC-05,0,18.4,Sí,4
+TK-10913,2025-08-22 00:29,Red,Baja,Portal,Logística,TEC-04,0,33.2,Sí,
+TK-10849,2025-08-06 09:46,software,Media,Portal,Operaciones,TEC-01,1,16.0,si,5
+TK-10512,2025-05-12 22:51,Correo,Baja,Teléfono,Operaciones,TEC-04,1,29.7,Sí,3
+TK-10732,2025-07-08 14:14,Red,Media,Correo,Operaciones,TEC-08,0,20.1,Sí,4
+TK-10997,2025-09-11 02:12,Hardware,Media,Teléfono,Operaciones,TEC-08,1,109.6,No,1
+TK-10888,2025-08-16 05:38,Red,Media,Portal,Recursos Humanos,TEC-03,2,28.7,No,4
+TK-10118,2025-01-26 11:34,Software,Media,Correo,Operaciones,TEC-07,2,34.1,No,2
+TK-11026,2025-09-18 05:20,SOFTWARE,Media,Portal,Ventas,TEC-06,3,35.7,NO,4
+TK-10114,2025-01-25 11:06,Red,Media,Portal,Logística,TEC-08,2,30.1,No,4
+TK-10546,2025-05-21 00:59,Red,Media,Portal,Operaciones,TEC-06,0,13.2,Sí,5
+TK-10166,2025-02-08 03:39,Accesos,Baja,Portal,Finanzas,TEC-04,1,21.0,Sí,
+TK-10185,2025-02-11 08:08,Software,Baja,Portal,Ventas,TEC-06,0,31.2,Sí,5
+TK-11397,2025-12-18 23:53,Correo,Alta,Portal,Ventas,TEC-08,0,7.4,Sí,
+TK-10275,2025-03-06 01:07,Correo,Media,Chat,Finanzas,TEC-03,0,10.2,Sí,3
+TK-11002,2025-09-11 16:32,Software,Media,Portal,Recursos Humanos,TEC-08,0,14.9,Sí,5
+TK-10705,2025-07-04 03:34,Software,Media,Correo,Gerencia,TEC-04,2,33.5,No,3
+TK-11025,2025-09-18 04:53,Software,Baja,Correo,Ventas,TEC-06,1,35.0,Sí,
+TK-10384,2025-04-08 10:27,Accesos,Media,Teléfono,Ventas,TEC-02,0,,Sí,5
+TK-11430,2025-12-29 01:40,Red,Media,Correo,Operaciones,TEC-01,1,23.9,Sí,3
+TK-10562,2025-05-24 15:30,Red,Media,Teléfono,Operaciones,TEC-01,4,"47,6",No,2
+TK-10863,2025-08-09 14:37,Hardware,Media,Teléfono,Recursos Humanos,TEC-04,0,46.0,No,3
+TK-11045,2025-09-22 14:42,ACCESOS,Media,Portal,Operaciones,TEC-02,1,23.7,Sí,4
+TK-10177,2025-02-09 21:19,Software,Media,Portal,Finanzas,TEC-03,0,13.3,Sí,4
+TK-11360,2025-12-09 20:50,SOFTWARE,Alta,Chat,Finanzas,TEC-02,1,11.7,No,3
+TK-10380,2025-04-07 12:43,Correo,Crítica,Correo,Logística,TEC-08,0,0.9,Sí,5
+TK-11196,2025-10-28 04:29,Hardware,Media,Portal,Logística,TEC-05,0,24.0,Sí,5
+TK-11017,2025-09-15 08:11,Hardware,Alta,Chat,Operaciones,TEC-02,1,12.3,No,4
+TK-10520,2025-05-15 04:03,Correo,Media,Teléfono,Operaciones,TEC-07,1,24.4,No,4
+TK-10831,2025-08-03 03:06,Software,Baja,Portal,Finanzas,TEC-03,2,34.3,Sí,
+TK-10508,2025-05-12 06:24,Accesos,Media,Portal,Recursos Humanos,TEC-05,2,27.9,No,
+TK-11177,2025-10-23 15:43,Hardware,Media,Chat,,TEC-03,1,48.0,No,4
+TK-10414,2025-04-15 13:56,Hardware,Crítica,Chat,Finanzas,TEC-04,2,33.6,No,2
+TK-10623,2025-06-09 11:34,Correo,Baja,Portal,Operaciones,TEC-07,0,"80,5",No,2
+TK-10873,2025-08-12 04:53,Hardware,Baja,Portal,Gerencia,TEC-08,0,28.8,Sí,
+TK-10859,2025-08-07 18:59,Software,Alta,Portal,Operaciones,TEC-05,0,6.4,Sí,5
+TK-10642,17/06/2025 00:22,Red,Media,Portal,Operaciones,TEC-04,0,30.7,No,
+TK-11341,2025-12-06 08:44,Software,Crítica,Chat,Finanzas,TEC-05,0,4.7,NO,4
+TK-10259,2025-03-01 23:34,Accesos,Baja,Correo,Logística,TEC-04,1,23.6,Sí,3
+TK-10835,2025-08-03 23:19, Red ,Alta,Teléfono,Ventas,TEC-02,1,12.6,No,5
+TK-10663,2025-06-21 18:43,Software,Media,Portal,Logística,TEC-08,0,15.6,Sí,4
+TK-10338,2025-03-26 07:59,Hardware,Baja,Teléfono,Operaciones,TEC-04,0,26.3,Sí,
+TK-10399,2025-04-11 17:34,Software,Alta,Teléfono,Ventas,TEC-07,0,1.3,Sí,5
+TK-11448,2025-12-31 12:03, Hardware ,Alta,Chat,Finanzas,TEC-05,0,14.7,No,3
+TK-10606,2025-06-05 17:54,Red,Media,Chat,Logística,TEC-02,1,22.4,Sí,3
+TK-10481,2025-05-04 13:58,Software,Alta,Teléfono,Recursos Humanos,TEC-03,2,28.7,No,4
+TK-11447,2025-12-31 09:44,Software,Media,Correo,Finanzas,TEC-01,0,24.4,No,5
+TK-11144,2025-10-17 00:18,Correo,Alta,Teléfono,Recursos Humanos,TEC-04,0,0.3,Sí,5
+TK-10918,2025-08-23 21:29,Red,Media,Chat,Ventas,TEC-06,1,"24,3",No,3
+TK-11018,2025-09-15 18:28,software,Crítica,Portal,Operaciones,TEC-06,0,5.3,No,
+TK-10876,2025-08-12 21:49,Software,Crítica,Portal,Recursos Humanos,TEC-08,1,7.4,No,5
+TK-10660,2025-06-21 12:31,Red,Baja,Portal,Recursos Humanos,TEC-01,0,36.3,Sí,5
+TK-11022,2025-09-17 11:17,Red,Alta,Portal,Ventas,TEC-04,1,27.3,No,3
+TK-10790,2025-07-23 14:04,Red,Alta,Portal,Logística,TEC-04,2,-17.9,No,4
+TK-10257,2025-03-01 20:00,Software,Alta,Portal,Recursos Humanos,TEC-08,2,16.5,No,4
+TK-10969,2025-09-04 20:13,Hardware,media,Teléfono,Ventas,TEC-08,0,16.5,Sí,5
+TK-10953,2025-08-31 21:33,Software,Media,Portal,Logística,TEC-05,0,22.3,Sí,3
+TK-11274,2025-11-19 23:02,Accesos,Alta,Correo,Finanzas,TEC-03,0,2.5,Sí,4
